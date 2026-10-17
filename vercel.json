@@ -1,0 +1,19 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": {
+        "type": "service",
+        "service": "navi-mumbai-bmc-house-price-prediction"
+      }
+    }
+  ],
+  "services": {
+    "navi-mumbai-bmc-house-price-prediction": {
+      "root": ".",
+      "runtime": "python",
+      "entrypoint": "index:app"
+    }
+  }
+}
