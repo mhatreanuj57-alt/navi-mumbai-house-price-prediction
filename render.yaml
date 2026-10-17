@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: navi-mumbai-bmc-house-price-prediction
+    runtime: python
+    buildCommand: bash build.sh
+    startCommand: python streamlit_ui.py
+    healthCheckPath: /_stcore/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.13.14

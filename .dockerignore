@@ -1,0 +1,12 @@
+.git
+.github
+__pycache__
+*.py[cod]
+.venv
+venv
+tests
+*.md
+.streamlit
+models/house_price_model.joblib
+data/mumbai1.csv
+data/housing.csv
