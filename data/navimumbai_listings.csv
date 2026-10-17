@@ -1,0 +1,1402 @@
+price,sqft,bhk,is_new,amenities,node,location
+4850000,720,1,0,4,Kharghar,Kharghar
+4500000,600,1,0,8,Kharghar,Kharghar
+6700000,650,1,0,10,Kharghar,Kharghar
+4500000,650,1,0,6,Kharghar,Kharghar
+5000000,665,1,0,6,Kharghar,Kharghar
+17000000,2000,4,0,11,Kharghar,Kharghar
+12500000,1550,3,0,7,Kharghar,Kharghar
+10500000,1370,3,0,5,Kharghar,Sector-13 Kharghar
+10500000,1356,3,0,9,Kharghar,Kharghar
+15000000,1680,3,0,13,Kharghar,Kharghar
+8700000,980,2,0,10,Kharghar,Kharghar
+9000000,1000,2,0,8,Kharghar,Kharghar
+11000000,1060,2,0,10,Kharghar,Kharghar
+10500000,1095,2,0,11,Kharghar,Kharghar
+9700000,1155,2,0,11,Kharghar,Kharghar
+10500000,1150,2,0,11,Kharghar,Kharghar
+8000000,1250,2,0,9,Kharghar,Sector 18 Kharghar
+8500000,990,2,0,13,Kharghar,Kharghar
+9300000,1078,2,0,12,Kharghar,Kharghar
+9900000,1150,2,0,10,Kharghar,Kharghar
+8000000,1150,2,0,11,Kharghar,Kharghar
+9000000,1060,2,0,10,Kharghar,Kharghar
+4200000,680,1,0,5,Kharghar,Kharghar
+28000000,2470,4,0,13,Kharghar,Kharghar
+40000000,2100,4,0,5,Kharghar,Kharghar
+16000000,2200,4,0,11,Kharghar,Kharghar
+17000000,2235,4,0,11,Kharghar,Kharghar
+9500000,1025,2,0,12,Kharghar,Kharghar
+9500000,950,2,0,9,Kharghar,Kharghar
+7500000,895,2,0,6,Kharghar,Kharghar
+8500000,1114,2,0,13,Kharghar,Kharghar
+13000000,1197,2,0,10,Kharghar,Kharghar
+13700000,1380,2,0,12,Kharghar,Kharghar
+8000000,1050,2,0,4,Kharghar,Kharghar
+10500000,1240,2,0,12,Kharghar,Kharghar
+7700000,1110,2,0,11,Kharghar,Kharghar
+7500000,1050,2,0,6,Kharghar,Kharghar
+9000000,1160,2,0,11,Kharghar,Kharghar
+6000000,555,1,0,6,Kharghar,Kharghar
+6200000,650,1,0,5,Kharghar,Kharghar
+5000000,600,1,0,7,Kharghar,Kharghar
+6500000,650,1,0,5,Kharghar,Kharghar
+5200000,700,1,0,11,Kharghar,Kharghar
+4200000,646,1,0,5,Kharghar,Kharghar
+5500000,560,1,0,6,Kharghar,Kharghar
+5500000,670,1,0,9,Kharghar,Kharghar
+6000000,740,1,0,11,Kharghar,Kharghar
+5500000,636,1,0,11,Kharghar,Kharghar
+16500000,1635,3,0,9,Kharghar,Kharghar
+11399999,1550,3,0,9,Kharghar,Kharghar
+13500000,1500,3,0,9,Kharghar,Kharghar
+22500000,1850,3,0,11,Kharghar,Kharghar
+5700000,610,1,0,11,Kharghar,Kharghar
+4800000,655,1,0,3,Kharghar,Kharghar
+4500000,660,1,0,4,Kharghar,Kharghar
+4300000,650,1,0,4,Kharghar,Kharghar
+4500000,680,1,0,8,Kharghar,Kharghar
+5300000,670,1,0,9,Kharghar,Kharghar
+4803000,655,1,0,4,Kharghar,Kharghar
+13000000,1800,3,0,9,Kharghar,Kharghar
+15500000,1645,3,0,9,Kharghar,Kharghar
+13000000,1395,3,0,10,Kharghar,Kharghar
+8500000,1150,2,0,10,Kharghar,Kharghar
+9400000,1200,2,0,10,Kharghar,Kharghar
+4500000,615,1,0,4,Kharghar,Kharghar
+6000000,765,1,0,11,Kharghar,Kharghar
+5600000,650,1,0,10,Kharghar,Kharghar
+17500000,1760,3,0,9,Kharghar,Kharghar
+12000000,1415,3,0,12,Kharghar,Kharghar
+15000000,1685,3,0,12,Kharghar,Kharghar
+16600000,1650,3,0,9,Kharghar,Kharghar
+5700000,650,1,0,7,Kharghar,Kharghar
+4900000,655,1,0,4,Kharghar,Kharghar
+13500000,1390,3,0,10,Kharghar,Kharghar
+22000000,1590,3,0,13,Kharghar,Kharghar
+17800000,1716,3,0,11,Kharghar,Kharghar
+14000000,1680,3,0,12,Kharghar,Kharghar
+7200000,1050,2,0,12,Kharghar,Kharghar
+7000000,1100,2,0,7,Kharghar,Kharghar
+15000000,1635,3,0,10,Kharghar,Kharghar
+10000000,1078,2,0,12,Kharghar,Kharghar
+11000000,1415,3,0,11,Kharghar,Kharghar
+12500000,1147,2,0,11,Kharghar,Kharghar
+15000000,1300,3,0,8,Kharghar,Kharghar
+9500000,1240,2,0,11,Kharghar,Kharghar
+5500000,650,1,0,7,Kharghar,Kharghar
+5000000,600,1,0,6,Kharghar,Sector 20 Kharghar
+5000000,550,1,0,4,Kharghar,Kharghar
+5500000,550,1,0,11,Kharghar,Kharghar
+4200000,650,1,0,5,Kharghar,Kharghar
+5000000,570,1,0,4,Kharghar,Kharghar
+4300000,640,1,0,8,Kharghar,Kharghar
+15500000,1700,3,0,11,Kharghar,Kharghar
+12000000,1530,3,0,10,Kharghar,Kharghar
+16000000,1750,3,0,6,Kharghar,Kharghar
+14000000,1687,3,0,13,Kharghar,Kharghar
+4900000,600,1,0,10,Kharghar,Kharghar
+13500000,1400,3,0,11,Kharghar,Kharghar
+15000000,1780,3,0,9,Kharghar,Kharghar
+6900000,1100,2,0,6,Kharghar,Kharghar
+8300000,1050,2,0,12,Kharghar,Kharghar
+5100000,700,1,0,7,Kharghar,Kharghar
+5200000,625,1,0,9,Kharghar,Kharghar
+5400000,650,1,0,5,Kharghar,Kharghar
+5300000,660,1,0,11,Kharghar,Kharghar
+14000000,1550,3,0,12,Kharghar,Kharghar
+17100000,1760,3,0,9,Kharghar,Kharghar
+11800000,1475,3,0,12,Kharghar,Kharghar
+6000000,759,1,0,11,Kharghar,Kharghar
+4850000,600,1,0,10,Kharghar,Kharghar
+4500000,550,1,0,5,Kharghar,Kharghar
+4100000,620,1,0,7,Kharghar,Kharghar
+5500000,745,1,0,8,Kharghar,Kharghar
+4500000,580,1,0,3,Kharghar,Kharghar
+19000000,1845,3,0,11,Kharghar,Kharghar
+13600000,1680,3,0,13,Kharghar,Kharghar
+16500000,1585,3,0,10,Kharghar,Kharghar
+8600000,1350,2,0,6,Kharghar,Kharghar
+10000000,1075,2,0,12,Kharghar,Kharghar
+10500000,1155,2,0,13,Kharghar,Kharghar
+4700000,625,1,0,10,Kharghar,Kharghar
+6200000,720,1,0,10,Kharghar,Kharghar
+6900000,735,1,0,11,Kharghar,Kharghar
+10000000,1505,3,0,5,Kharghar,Kharghar
+13000000,1630,3,0,6,Kharghar,Kharghar
+11000000,1550,3,0,9,Kharghar,Kharghar
+13000000,1455,3,0,5,Kharghar,Sector 18 Kharghar
+10500000,1098,2,0,10,Kharghar,Kharghar
+13000000,1210,2,0,9,Kharghar,Sector 15 Kharghar
+9500000,1000,2,0,9,Kharghar,Kharghar
+16200000,1650,3,0,9,Kharghar,Kharghar
+15000000,1440,3,0,12,Kharghar,Kharghar
+13200000,1370,3,0,10,Kharghar,Kharghar
+7500000,1022,2,0,4,Kharghar,Sector 18 Kharghar
+15000000,1760,3,0,8,Kharghar,Kharghar
+7500000,1100,2,0,7,Kharghar,Kharghar
+13000000,1550,3,0,9,Kharghar,Sector 20 Kharghar
+16200000,1675,3,1,11,Kharghar,Kharghar
+11600000,1150,2,0,10,Kharghar,Kharghar
+5600000,670,1,0,9,Kharghar,Kharghar
+8000000,900,2,0,12,Kharghar,Kharghar
+9500000,1088,2,0,9,Kharghar,Kharghar
+2300000,310,1,0,2,Kharghar,Kharghar
+11200000,573,2,1,11,Ulwe,Ulwe
+9000000,1100,2,0,10,Ulwe,Ulwe
+8500000,1135,2,0,10,Ulwe,Ulwe
+6400000,1550,3,0,5,Taloja,Taloja
+3600000,530,1,0,5,Kharghar,Sector 20 Kharghar
+9200000,1260,2,0,5,Ulwe,Sector 5 Ulwe
+9000000,1260,2,0,5,Panvel,Sector12 New Panvel
+9200000,1150,2,0,5,Ulwe,Sector 17 Ulwe
+5300000,690,1,0,5,Ulwe,Sector 17 Ulwe
+15500000,1240,3,0,5,Kamothe,Sector9 Kamothe
+9500000,1260,2,0,5,Kharghar,Sector 19 Kharghar
+9000000,1240,2,0,5,Ulwe,Sector 5 Ulwe
+10800000,1260,2,0,6,Kamothe,Sector12 Kamothe
+11000000,1255,2,0,5,Kamothe,Sector 21 Kamothe
+7200000,1055,2,0,5,Kharghar,Sector 19 Kharghar
+7000000,1060,2,0,5,Ulwe,Sector 5 Ulwe
+8500000,1150,2,0,5,Kamothe,Sector12 Kamothe
+8500000,1165,2,0,5,Kamothe,Sector12 Kamothe
+7700000,1080,2,0,5,Kamothe,Sector9 Kamothe
+11000000,1470,3,0,5,Kamothe,Sector12 Kamothe
+6000000,610,1,0,5,Kamothe,Sector9 Kamothe
+9200000,1180,2,0,5,Kamothe,Sector12 Kamothe
+15000000,1735,3,0,5,Kamothe,Sector9 Kamothe
+11000000,1230,2,0,5,Ulwe,Sector 17 Ulwe
+4500000,599,1,0,4,Ulwe,Sector 17 Ulwe
+8800000,980,2,0,5,Kamothe,Sector9 Kamothe
+16500000,1654,3,0,5,Kamothe,Sector9 Kamothe
+16800000,1665,3,0,5,Ulwe,Sector 17 Ulwe
+16299999,1640,3,0,5,Ulwe,Sector 17 Ulwe
+15500000,1650,3,0,6,Ulwe,Sector 17 Ulwe
+4900000,980,2,0,3,Taloja,Taloja
+4800000,1020,2,0,3,Taloja,taloja panchanand
+5000000,578,1,0,3,Kamothe,Sector 20 Kamothe
+5000000,650,1,0,3,Kamothe,Sector 22 Kamothe
+4000000,600,1,0,3,Kamothe,Sector 21 Kamothe
+5000000,600,1,0,3,Kamothe,Sector 22 Kamothe
+6250000,625,1,0,3,Kamothe,Sector 18 Kamothe
+4800000,600,1,0,3,Kamothe,Sector 22 Kamothe
+3800000,560,1,0,3,Kamothe,Sector-5 Kamothe
+3600000,580,1,0,3,Kamothe,Sector-6A Kamothe
+4400000,530,1,0,3,Kamothe,Sector 11 Kamothe
+5000000,650,1,0,3,Ulwe,Sector-18 Ulwe
+9000000,1450,2,0,3,Kamothe,Sector 21 Kamothe
+2600000,380,1,0,3,Kamothe,Sector-12 Kamothe
+22000000,1650,3,0,11,Kharghar,Kharghar
+14500000,1360,2,0,8,Kharghar,Kharghar
+11500000,1250,2,0,10,Kharghar,Kharghar
+4000000,750,1,0,5,Taloja,Taloja
+2500000,450,1,1,2,Taloja,Taloja
+2300000,410,1,1,2,Taloja,Taloja
+4000000,620,1,0,6,Kamothe,Kamothe
+6400000,980,2,0,6,Kamothe,Kamothe
+6900000,950,2,0,7,Kamothe,Kamothe
+7500000,890,2,0,6,Ulwe,Sector 17 Ulwe
+5425000,619,1,0,5,Kamothe,Kamothe
+5700000,710,1,0,5,Kamothe,Kamothe
+7100000,887,2,0,6,Kamothe,Kamothe
+7800000,1005,2,0,6,Kamothe,Kamothe
+5900000,950,2,0,6,Kamothe,Kamothe
+6200000,660,1,0,5,Kamothe,Kamothe Sector 16
+5500000,650,1,0,6,Ulwe,Sector 17 Ulwe
+5000000,650,1,0,6,Kamothe,Kamothe
+4050000,638,1,0,6,Kamothe,Kamothe
+5050000,675,2,0,5,Kamothe,Kamothe
+7400000,890,2,0,6,Ulwe,Sector 17 Ulwe
+6800000,1006,2,0,6,Kamothe,Kamothe
+3000000,420,1,0,5,Kamothe,Kamothe
+5200000,850,1,0,6,Kamothe,Kamothe
+6700000,1005,2,0,6,Kamothe,Kamothe
+6900000,900,2,0,6,Kamothe,Kamothe
+7950000,940,2,0,6,Kamothe,Kamothe
+5460000,620,1,0,6,Kamothe,Kamothe
+4950000,650,2,0,5,Kamothe,Kamothe
+7000000,1000,2,0,6,Kamothe,Kamothe
+8575000,1100,2,0,5,Kamothe,Kamothe
+4800000,600,1,0,5,Kamothe,Kamothe
+2700000,350,1,0,6,Ulwe,Sector 17 Ulwe
+7900000,940,2,0,6,Kamothe,Kamothe
+14900000,1550,3,0,1,Kharghar,Kharghar
+3700000,550,1,0,2,Kharghar,Sector13 Kharghar
+2700000,416,1,0,2,Kharghar,Sector 20 Kharghar
+3850000,510,1,0,4,Kharghar,Kharghar
+2850000,305,1,0,10,Kharghar,Kharghar
+12100000,1251,2,0,11,Kharghar,Kharghar
+6800000,989,2,0,11,Kharghar,Kharghar
+6000000,850,2,0,8,Kharghar,Kharghar
+6850000,989,2,0,11,Kharghar,Kharghar
+5500000,900,2,0,2,Kharghar,Kharghar
+9200000,1500,3,0,3,Kharghar,Sector 21 Kharghar
+5000000,650,1,0,3,Kharghar,Sector 12 Kharghar
+17500000,1750,3,0,12,Kharghar,Kharghar
+9400000,1240,2,0,12,Kharghar,Kharghar
+16500000,1560,3,0,12,Kharghar,Kharghar
+3700000,640,1,0,3,Kharghar,Kharghar
+2700000,350,1,0,2,Kharghar,Sector 21 Kharghar
+22000000,1770,3,0,11,Kharghar,Kharghar
+10200000,1230,2,0,9,Kharghar,Kharghar
+3100000,450,1,0,3,Kharghar,Kharghar
+5500000,655,1,0,8,Kharghar,Kharghar
+2700000,570,1,1,3,Panvel,Panvel
+5000000,735,1,1,3,Ulwe,Ulwe
+7200000,952,2,1,3,Ulwe,Sector 21 Ulwe
+6100000,1150,2,0,4,Dronagiri,Dronagiri
+18500000,1250,2,1,8,Nerul,Nerul
+22500000,1750,3,1,7,Sanpada,Sanpada
+17000000,1250,2,1,6,Sanpada,Sanpada
+6000000,687,1,1,8,Ulwe,Sector-18 Ulwe
+11100000,1310,2,1,12,Ulwe,Sector-8 Ulwe
+3500000,690,1,1,8,Dronagiri,Dronagiri
+5200000,1070,2,0,13,Dronagiri,Dronagiri
+5800000,540,1,1,4,Ulwe,Ulwe
+6200000,1135,2,1,6,Ulwe,Ulwe
+27500000,3000,4,0,12,Ulwe,Sector-3 Ulwe
+15500000,1500,3,0,9,Ulwe,Sector-3 Ulwe
+13799999,1440,2,0,10,Ulwe,Sector-3 Ulwe
+3400000,704,1,1,8,Dronagiri,Dronagiri
+3500000,688,1,1,9,Dronagiri,Dronagiri
+5200000,667,1,0,6,Ulwe,Sector 17 Ulwe
+2400000,625,1,1,8,Dronagiri,Dronagiri
+4900000,650,1,0,9,Ulwe,Sector 23 Ulwe
+4500000,610,1,1,8,Ulwe,Ulwe
+14500000,1560,3,1,13,Ulwe,Ulwe
+8200000,1150,2,1,12,Ulwe,Sector 17 Ulwe
+29500000,2130,3,0,12,Nerul,Nerul
+4900000,665,1,1,12,Ulwe,Sector 17 Ulwe
+5000000,1155,2,1,8,Dronagiri,Dronagiri
+5300000,1120,2,1,10,Dronagiri,Dronagiri
+7000000,1000,2,1,10,Ulwe,Sector 17 Ulwe
+3588000,690,1,1,11,Ulwe,Sector 23 Ulwe
+3800000,655,1,1,10,Ulwe,Sector 17 Ulwe
+3500000,655,1,0,9,Ulwe,Sector 17 Ulwe
+3700000,650,1,0,8,Ulwe,ULWE SECTOR 19
+8500000,1220,2,1,11,Ulwe,Ulwe
+4900000,700,1,1,9,Ulwe,Ulwe
+3000000,650,1,1,6,Dronagiri,Dronagiri
+3650000,665,1,1,4,Dronagiri,Dronagiri
+4200000,690,1,1,7,Dronagiri,Dronagiri
+3001000,675,1,1,9,Dronagiri,Dronagiri
+6800000,1250,2,1,11,Panvel,Panvel
+16000000,1350,2,0,5,Ulwe,Sector 17 Ulwe
+9500000,852,2,0,8,Kharghar,Kharghar
+7900000,1115,2,0,4,Taloja,taloja panchanand
+4700000,690,1,0,4,Taloja,taloja panchanand
+8725000,1175,2,0,9,Kamothe,Kamothe
+13200000,1525,2,1,0,Kharghar,Kharghar Sector 34C
+11000000,1440,3,0,0,Kharghar,Sector 20 Kharghar
+17500000,1600,3,0,7,Kharghar,Kharghar
+10000000,1140,2,0,10,Kharghar,Kharghar
+16500000,1502,3,0,10,Kharghar,Kharghar
+4800000,650,1,0,9,Kharghar,Kharghar
+14000000,1600,3,1,11,Kharghar,Kharghar
+10000000,1325,2,1,11,Kharghar,Kharghar
+12500000,1725,3,1,11,Kharghar,Kharghar
+13500000,1256,2,0,11,Kharghar,Kharghar
+16500000,1600,3,0,7,Kharghar,Kharghar
+21000000,2030,3,1,12,Kharghar,Kharghar
+16000000,1680,3,1,11,Kharghar,Kharghar
+17000000,1810,3,1,11,Kharghar,Kharghar
+9500000,1210,2,1,11,Kharghar,Kharghar
+31100000,3275,4,1,11,Kharghar,Kharghar
+30400000,3205,4,1,11,Kharghar,Kharghar
+12300000,1305,2,1,11,Kharghar,Kharghar
+11600000,1230,2,1,11,Kharghar,Kharghar
+16000000,1725,3,1,11,Kharghar,Kharghar
+9600000,1210,2,1,11,Kharghar,Kharghar
+16500000,1660,3,0,9,Kharghar,Kharghar
+18500000,1700,3,1,9,Kharghar,Kharghar
+15500000,1130,2,1,11,Kharghar,Kharghar
+17900000,1810,3,1,11,Kharghar,Kharghar
+13300000,1482,3,1,9,Kharghar,Kharghar
+4500000,650,1,0,6,Ulwe,Ulwe
+5500000,619,1,0,5,Kamothe,Sector 21 Kamothe
+5600000,619,1,0,5,Kamothe,Sector 21 Kamothe
+9500000,1250,2,0,5,Kamothe,Sector 21 Kamothe
+7000000,995,2,0,5,Kamothe,Sector12 Kamothe
+16000000,1700,3,0,5,Kamothe,Sector12 Kamothe
+10500000,1420,3,0,6,Kamothe,Sector 18 Kamothe
+7600000,1100,2,0,5,Kharghar,Sector 19 Kharghar
+7400000,1080,2,0,5,Kharghar,Sector 20 Kharghar
+7000000,1080,2,0,5,Kharghar,Sector 20 Kharghar
+3200000,410,1,0,5,Kamothe,Sector 22 Kamothe
+5000000,650,1,0,5,Kharghar,Sector 20 Kharghar
+8500000,1200,3,0,5,Kharghar,Sector 20 Kharghar
+8700000,1160,2,0,5,Kamothe,Sector 19 Kamothe
+8200000,1005,2,0,5,Panvel,Panvel
+6500000,1255,2,0,6,Kamothe,Kamothe
+8300000,1256,2,0,5,Kamothe,Sector 20 Kamothe
+9350000,1236,2,0,4,Kamothe,Kamothe
+10000000,1700,3,0,6,Kamothe,Kamothe
+7000000,1003,2,0,5,Kamothe,Kamothe
+5800000,1000,2,0,6,Kamothe,Kamothe
+4800000,653,1,0,5,Kamothe,Kamothe
+11000000,1575,3,0,4,Kamothe,Kamothe
+8500000,1089,2,0,4,Kamothe,Kamothe
+14500000,1100,2,0,0,Nerul,Nerul
+13000000,1100,2,0,4,Nerul,Nerul
+6500000,650,1,0,3,Nerul,Nerul
+7800000,1055,2,0,9,Ulwe,Sector-3 Ulwe
+5100000,710,1,0,9,Ulwe,Sector-3 Ulwe
+5300000,1100,2,0,6,Taloja,Taloja
+3800000,738,1,0,11,Taloja,Taloja
+11200000,1025,2,0,9,Kharghar,Kharghar
+4500000,603,1,0,3,Kharghar,Sector 30 Kharghar
+13500000,1340,2,0,3,Kharghar,Sector 19 Kharghar
+6500000,650,1,0,3,Kharghar,Sector 20 Kharghar
+5600000,610,1,0,3,Kharghar,Sector 20 Kharghar
+5500000,640,1,0,3,Kharghar,Sector 20 Kharghar
+6000000,560,1,0,3,Kharghar,Sector 15 Kharghar
+6000000,850,1,0,3,Kharghar,Sector 19 Kharghar
+5600000,635,1,0,3,Kharghar,Sector 19 Kharghar
+4600000,610,1,0,3,Airoli,Sector16 Airoli
+10000000,1098,2,0,3,Kharghar,Sector 19 Kharghar
+13000000,1300,2,0,3,Kharghar,Sector 20 Kharghar
+7800000,735,1,0,3,Kharghar,Sector 35I Kharghar
+4200000,640,1,0,3,Kharghar,Sector35D Kharghar
+9800000,1090,2,0,3,Kharghar,Sector 35I Kharghar
+4500000,800,1,0,3,Kharghar,Sector 30 Kharghar
+15000000,1300,3,0,3,Kharghar,Sector 12 Kharghar
+5300000,560,1,0,3,Kharghar,Sector 20 Kharghar
+16000000,1400,3,0,3,Kharghar,Sector 20 Kharghar
+11100000,1117,2,0,3,Kharghar,Sector 20 Kharghar
+6000000,675,1,0,3,Kharghar,Sector35D Kharghar
+11000000,1100,2,0,3,Kharghar,Sector 20 Kharghar
+5000000,650,1,0,3,Kharghar,Sector34 A Kharghar
+6500000,675,1,0,3,Kharghar,Sector 19 Kharghar
+5500000,450,1,0,3,Airoli,Sector16 Airoli
+7000000,735,1,0,3,Kharghar,Sector 35I Kharghar
+4600000,600,1,0,3,Kharghar,Sector 36 Kharghar
+8000000,1000,2,0,3,Kharghar,Sector 20 Kharghar
+11500000,1182,2,0,3,Belapur,Sector 11 Belapur
+10500000,911,2,0,3,Kharghar,Sector 20 Kharghar
+12700000,1125,2,0,3,Kharghar,Sector 15 Kharghar
+9900000,1025,2,0,3,Kharghar,Sector-34B Kharghar
+8000000,715,1,0,9,Nerul,Nerul
+16000000,1650,3,0,3,Seawoods,Sector-50 Seawoods
+5500000,690,1,0,3,Ulwe,Ulwe
+8500000,1000,2,0,4,Kharghar,Sector 36 Kharghar
+14500000,1250,2,0,5,Kharghar,Sector 18 Kharghar
+14000000,1016,2,0,6,Kharghar,Sector 18 Kharghar
+13000000,1290,2,0,6,Kharghar,Sector 18 Kharghar
+11500000,1227,2,0,6,Kharghar,Sector 35I Kharghar
+17500000,1630,3,0,4,Kharghar,Sector 7 Kharghar
+14000000,1200,2,0,4,Kharghar,Sector 18 Kharghar
+2800000,525,1,1,2,Panvel,Panvel
+11000000,1131,2,0,7,Kharghar,Kharghar
+9500000,1400,3,0,6,Kharghar,Kharghar
+6500000,800,2,0,6,Kharghar,Kharghar
+3700000,500,1,0,6,Kharghar,Kharghar
+9500000,1150,2,0,11,Kharghar,Kharghar
+8200000,1015,2,0,6,Kharghar,Kharghar
+9300000,1150,2,0,9,Kharghar,Kharghar
+5800000,750,1,0,11,Kharghar,Kharghar
+14200000,1800,3,0,12,Kharghar,Kharghar
+15500000,1605,3,0,12,Kharghar,Kharghar
+7900000,1040,2,0,10,Kharghar,Kharghar
+10500000,1580,3,0,9,Kharghar,Kharghar
+11000000,1255,2,0,12,Kharghar,Kharghar
+10100000,1580,3,0,9,Kharghar,Kharghar
+10000000,1100,2,0,7,Kharghar,Kharghar
+13000000,1150,2,0,10,Kharghar,Kharghar
+11399999,1133,2,1,9,Panvel,Panvel
+3500000,475,1,0,0,Kamothe,Sector 20 Kamothe
+16200000,1850,3,0,5,Kharghar,Kharghar
+13500000,1050,2,0,5,Belapur,Belapur
+18000000,1335,2,0,5,Belapur,Belapur
+12600000,1150,2,0,5,Kamothe,Sector-12 Kamothe
+38000000,2120,3,0,5,Nerul,Nerul
+12600000,1150,2,0,5,Kharghar,Sector 12 Kharghar
+25000000,1950,3,0,5,Nerul,Nerul
+17100000,1150,2,0,5,Seawoods,Seawoods
+17100000,1100,2,0,5,Seawoods,Seawoods
+6200000,400,1,0,4,Airoli,Airoli
+9500000,1000,2,0,6,Airoli,Airoli
+4800000,600,1,0,4,Kamothe,Sector 36 Kamothe
+4400000,665,1,0,0,Ulwe,Sector 17 Ulwe
+14000000,900,2,0,4,Seawoods,Seawoods
+10500000,1190,2,1,1,Ulwe,Ulwe
+13500000,1235,2,0,12,Kharghar,Kharghar
+51500000,3465,4,1,12,Sanpada,Sanpada
+10200000,1050,2,0,12,Kharghar,Kharghar
+14200000,1440,3,0,11,Kharghar,Kharghar
+5300000,612,1,0,4,Kharghar,Kharghar
+5500000,676,1,0,11,Kharghar,Kharghar
+16000000,1600,3,0,12,Kharghar,Kharghar
+7500000,850,2,0,3,Kharghar,Kharghar
+7500000,1085,2,0,6,Kharghar,Kharghar
+30000000,2950,4,0,9,Kharghar,Kharghar
+6000000,700,1,0,11,Kharghar,Kharghar
+5500000,649,1,0,7,Kharghar,Kharghar
+5500000,660,1,0,11,Kharghar,Kharghar
+14800000,1600,3,1,11,Kharghar,Kharghar
+11800000,1150,2,0,9,Kharghar,Kharghar
+13600000,1760,3,0,9,Kharghar,Kharghar
+6500000,750,1,0,9,Kharghar,Kharghar
+4200000,630,1,0,7,Kharghar,Kharghar
+4800000,540,1,0,9,Kharghar,Kharghar
+30000000,2355,4,0,9,Kharghar,Kharghar
+21000000,2250,4,0,11,Kharghar,Kharghar
+5300000,687,1,1,5,Panvel,Panvel
+6300000,850,2,1,11,Panvel,Panvel
+2100000,450,1,0,7,Taloja,Sector-26 Taloja
+19000000,1267,3,0,11,Belapur,Belapur
+14900000,1245,2,1,3,Airoli,Airoli
+14000000,1183,2,1,11,Airoli,Airoli
+4500000,620,1,0,1,Kamothe,Sector12 Kamothe
+16000000,1515,3,0,11,Kharghar,Kharghar
+7600000,1055,2,0,4,Ulwe,Sector 2 Ulwe
+28000000,4000,5,0,5,Kharghar,Kharghar
+11100000,1245,2,0,4,Ulwe,Sector 17 Ulwe
+10500000,1165,2,0,4,Kamothe,Sector9 Kamothe
+8725000,1135,2,0,6,Ulwe,Sector-9 Ulwe
+4700000,1005,2,0,3,Taloja,Taloja
+4500000,980,2,0,3,Taloja,Taloja
+3200000,680,1,0,3,Taloja,Taloja
+3500000,710,1,0,3,Taloja,Taloja
+3300000,690,1,0,3,Taloja,Taloja
+4000000,715,1,0,3,Taloja,Taloja
+3500000,700,1,0,3,Taloja,Taloja
+3350000,670,1,0,3,Taloja,Taloja
+2650000,560,1,0,3,Taloja,Taloja
+2300000,445,1,0,3,Taloja,Taloja
+2600000,560,1,0,3,Taloja,Taloja
+5700000,1060,2,0,3,Taloja,Taloja
+5800000,1064,2,0,3,Taloja,Taloja
+6000000,1070,2,0,3,Taloja,Taloja
+5200000,995,2,0,3,Taloja,Taloja
+4900000,985,2,0,3,Taloja,Taloja
+4000000,665,1,0,3,Taloja,Taloja
+3700000,680,1,0,3,Taloja,Taloja
+6000000,690,1,0,4,Ulwe,Ulwe
+7800000,1000,2,0,3,Ulwe,Ulwe
+8200000,1090,2,0,8,Ulwe,Ulwe
+15500000,2000,3,1,10,Kharghar,Kharghar
+6200000,900,2,0,4,Kamothe,Kamothe
+7900000,1065,2,0,4,Kamothe,Kamothe
+6900000,850,2,0,4,Ulwe,Sector 17 Ulwe
+4400000,610,1,0,5,Kamothe,Kamothe
+5700000,670,1,0,5,Kamothe,Kamothe
+4000000,600,2,0,5,Ulwe,Sector 17 Ulwe
+6350000,900,2,0,6,Kamothe,Kamothe
+4500000,610,2,0,4,Kamothe,Kamothe
+6700000,980,2,0,4,Kamothe,Kamothe
+6000000,745,1,0,10,Ulwe,Ulwe
+3500000,635,1,0,10,Kharghar,Kharghar
+4100000,600,1,0,11,Kharghar,Kharghar
+7000000,900,2,0,2,Kharghar,Sector 11 Kharghar
+8000000,852,2,0,9,Kharghar,Kharghar
+4700000,690,1,0,11,Kharghar,Kharghar
+5200000,600,1,0,9,Kharghar,Kharghar
+7500000,1000,2,0,9,Kharghar,Kharghar
+8750000,1205,2,0,10,Kharghar,Kharghar
+5200000,560,1,0,10,Kharghar,Kharghar
+7100000,1085,2,0,4,Kharghar,Kharghar
+7300000,1000,2,0,10,Kharghar,Kharghar
+13000000,1185,2,0,11,Kharghar,Kharghar
+15500000,1435,3,1,12,Kharghar,Kharghar
+15500000,1530,3,0,12,Kharghar,Kharghar
+15000000,1730,3,0,12,Kharghar,Kharghar
+4800000,560,1,0,13,Kharghar,Kharghar
+12000000,1600,3,0,12,Kharghar,Kharghar
+2600000,390,1,0,2,Kharghar,Kharghar
+5300000,600,1,0,10,Kharghar,Kharghar
+9500000,1075,2,0,11,Kharghar,Kharghar
+13500000,1300,3,0,10,Kharghar,Kharghar
+3700000,400,1,0,4,Ghansoli,Ghansoli
+6000000,373,1,0,4,Sanpada,Sector8 Sanpada
+9350000,1195,2,0,10,Kharghar,Kharghar
+4000000,600,1,0,3,Ulwe,Ulwe
+4400000,670,1,0,5,Ulwe,Ulwe
+8800000,1085,2,0,5,Ulwe,Ulwe
+5200000,685,2,0,5,Ulwe,Ulwe
+4000000,670,1,0,5,Ulwe,Ulwe
+6200000,693,1,0,4,Ulwe,Ulwe
+5000000,640,1,0,5,Ulwe,Ulwe
+6500000,1690,3,0,5,Ulwe,Ulwe
+6200000,1215,2,0,5,Ulwe,Ulwe
+2750000,385,1,0,4,Ulwe,Ulwe
+6500000,1120,2,0,5,Ulwe,Ulwe
+8000000,1235,2,0,5,Ulwe,Ulwe
+4950000,685,1,0,4,Ulwe,Ulwe
+7500000,980,2,0,5,Ulwe,Ulwe
+6000000,758,1,0,5,Ulwe,Ulwe
+4500000,689,1,0,5,Ulwe,Ulwe
+4700000,648,1,0,5,Ulwe,Ulwe
+7600000,1595,3,0,5,Ulwe,Ulwe
+8000000,1250,2,0,5,Ulwe,Ulwe
+5500000,840,2,0,5,Ulwe,Ulwe
+8600000,1045,2,0,5,Ulwe,Ulwe
+8000000,1350,2,0,5,Ulwe,Ulwe
+5100000,1511,3,0,5,Ulwe,Ulwe
+6500000,686,1,0,5,Ulwe,Ulwe
+8500000,930,2,0,5,Ulwe,Ulwe
+35000000,1855,3,0,4,Nerul,Nerul
+10500000,1187,2,1,8,Ulwe,Sector-18 Ulwe
+15200000,1286,2,0,12,Nerul,Nerul
+3700000,640,1,1,5,Panvel,Panvel
+8800000,900,2,1,12,Ulwe,Ulwe
+5400000,620,1,1,12,Ulwe,Ulwe
+10300000,1220,2,1,13,Ulwe,Ulwe
+52500000,2703,4,0,12,Nerul,Nerul
+2600000,645,1,1,5,Dronagiri,Dronagiri
+4400000,880,1,1,5,Dronagiri,Dronagiri
+3400000,600,1,1,12,Dronagiri,Dronagiri
+4600000,680,1,1,8,Ulwe,Sector 17 Ulwe
+6050000,1246,2,0,4,Panvel,Panvel
+6500000,675,1,0,1,Belapur,Thane Belapur Road Kalwa
+5300000,560,1,0,1,Belapur,Thane Belapur Road Kalwa
+2900000,695,1,0,5,Taloja,Taloja
+9600000,1083,2,0,5,Kharghar,Kharghar
+11000000,1364,3,0,5,Kharghar,Kharghar
+4800000,1110,2,0,4,Taloja,Taloja
+6300000,1050,2,0,4,Taloja,Taloja
+7050000,1000,2,0,4,Kharghar,Kharghar
+7500000,1050,2,0,4,Kamothe,Sector-35 Kamothe
+53000000,1900,4,0,4,Seawoods,Sector 58A Seawoods Navi Mumbai
+6300000,980,2,0,0,Ulwe,Sector 17 Ulwe
+22000000,2000,3,1,12,Kharghar,Kharghar
+4100000,650,1,0,5,Kamothe,Sector 22 Kamothe
+13500000,1560,3,0,4,Kamothe,Sector 22 Kamothe
+7600000,1098,2,0,5,Kamothe,Kamothe
+9200000,1310,2,0,5,Kamothe,Kamothe
+8000000,1109,2,0,3,Kamothe,Kamothe
+4200000,650,1,0,5,Kamothe,Kamothe
+9000000,1128,2,0,6,Kamothe,Kamothe
+8500000,1258,2,0,4,Kamothe,Kamothe
+9400000,1245,2,0,4,Kamothe,Kamothe Sector 16
+6800000,1101,2,0,4,Kamothe,Kamothe
+11200000,1532,3,0,4,Ulwe,Sector-8 Ulwe
+12100000,1515,3,0,4,Ulwe,Sector-18 Ulwe
+9200000,1175,2,0,4,Ulwe,Sector-18 Ulwe
+25500000,3000,5,0,4,Ulwe,Sector-3 Ulwe
+11600000,1585,3,0,4,Ulwe,Sector-3 Ulwe
+9000000,1220,2,0,4,Ulwe,Sector-3 Ulwe
+9000000,1220,2,0,4,Ulwe,Sector 5 Ulwe
+14500000,1655,3,0,4,Ulwe,Sector-18 Ulwe
+8900000,1150,2,0,4,Ulwe,Sector-18 Ulwe
+9500000,1100,2,0,4,Ulwe,Sector-18 Ulwe
+12000000,1600,3,0,4,Ulwe,Sector-18 Ulwe
+4000000,620,1,0,3,Kamothe,Sector-24 Kamothe
+13899999,1690,3,0,4,Ulwe,Sector-8 Ulwe
+9400000,1192,2,0,4,Kamothe,Kamothe Sector 16
+5500000,665,1,0,4,Kamothe,Kamothe
+11000000,1470,3,0,4,Ulwe,Sector-18 Ulwe
+8500000,1040,2,0,4,Ulwe,Sector 17 Ulwe
+32300000,2900,5,0,4,Ulwe,Sector-8 Ulwe
+8900000,1475,3,0,4,Kharghar,Sector 36 Kharghar
+11000000,1500,3,0,4,Kharghar,Sector 36 Kharghar
+6000000,650,1,0,4,Kharghar,Sector 20 Kharghar
+7500000,1055,2,0,4,Ulwe,Sector-18 Ulwe
+24500000,2200,4,0,4,Kharghar,Sector 30 Kharghar
+9000000,1129,2,0,4,Ulwe,Sector-18 Ulwe
+5000000,690,1,0,4,Kamothe,Sector12 Kamothe
+25000000,3000,5,0,4,Kharghar,Sector35D Kharghar
+9100000,1180,2,0,4,Ulwe,Sector-18 Ulwe
+8100000,1250,2,0,4,Kharghar,Sector 19 Kharghar
+7700000,1125,2,0,5,Kamothe,Kamothe
+6500000,500,1,0,1,Nerul,Sector 19 Nerul
+5800000,1060,2,0,5,Taloja,taloja panchanand
+5800000,1025,2,0,6,Taloja,taloja panchanand
+3600000,690,1,0,4,Taloja,Taloja Bypass Nitalas Link Road
+3500000,670,1,0,4,Taloja,taloja panchanand
+14800000,1980,3,0,5,Kharghar,Sector 20 Kharghar
+14800000,1985,3,0,4,Kharghar,Sector 20 Kharghar
+11500000,1450,3,0,9,Kamothe,Sector 10 Kamothe
+4200000,555,1,0,9,Kamothe,Kamothe
+8100000,1079,2,0,5,Kharghar,Kharghar
+3900000,380,1,0,6,Kharghar,Kharghar
+13500000,1415,3,0,5,Kharghar,Kharghar
+8400000,776,2,0,4,Kharghar,Sector 20 Kharghar
+13500000,1414,3,0,6,Kharghar,Kharghar
+12000000,1302,3,0,6,Kharghar,Sector 11 Kharghar
+8500000,966,2,0,4,Kharghar,Sector 19 Kharghar
+8500000,600,1,0,3,Seawoods,Seawoods
+7800000,1365,2,0,5,Dronagiri,Dronagiri
+4200000,640,1,0,3,Kharghar,Kharghar
+11500000,1182,2,0,3,Kharghar,Kharghar
+8000000,1000,2,0,3,Kharghar,Kharghar
+14500000,1655,3,0,3,Kharghar,Kharghar
+6500000,675,1,0,3,Kharghar,Kharghar
+9500000,1050,2,0,3,Kharghar,Kharghar
+8000000,800,2,0,3,Kharghar,Kharghar
+9200000,1250,2,0,3,Kharghar,Kharghar
+5200000,590,1,0,3,Kharghar,Kharghar
+6000000,675,1,0,3,Kharghar,Kharghar
+13000000,1200,3,0,3,Kharghar,Kharghar
+10500000,911,2,0,3,Kharghar,Kharghar
+11100000,1117,2,0,3,Kharghar,Kharghar
+12700000,1125,2,0,3,Kharghar,Kharghar
+6000000,560,1,0,3,Kharghar,Kharghar
+9800000,1090,2,0,3,Kharghar,Kharghar
+10000000,1463,2,0,3,Kharghar,Kharghar
+13000000,1500,3,0,3,Kharghar,Kharghar
+5500000,640,1,0,3,Kharghar,Kharghar
+7200000,860,1,0,3,Kharghar,Kharghar
+10500000,1075,2,0,3,Kharghar,Kharghar
+4600000,600,1,0,3,Kharghar,Kharghar
+5500000,450,1,0,3,Kharghar,Kharghar
+5000000,650,1,0,3,Kharghar,Kharghar
+13000000,1300,2,0,3,Kharghar,Kharghar
+8000000,914,2,0,3,Kharghar,Kharghar
+11000000,1100,2,0,3,Kharghar,Kharghar
+5700000,670,1,1,8,Kharghar,Kharghar
+4600000,715,1,1,0,Ulwe,Ulwe
+6000000,1040,2,1,0,Ulwe,Sector 23 Ulwe
+5000000,1000,2,1,0,Panvel,Panvel
+20000000,1500,3,0,3,Belapur,CBD Belapur East
+13500000,1200,2,0,3,Belapur,CBD Belapur East
+19500000,1400,3,0,4,Belapur,CBD Belapur East
+7800000,1125,2,0,5,Kharghar,Sector35D Kharghar
+7800000,600,1,0,5,Nerul,Sector 19A Nerul
+20000000,1400,3,0,4,Belapur,CBD Belapur East
+11500000,960,2,0,2,Belapur,CBD Belapur East
+11000000,1150,2,0,5,Ulwe,Ulwe
+4000000,625,1,0,3,Kamothe,Sector 18 Kamothe
+6800000,1000,2,0,3,Kamothe,Kamothe
+4900000,620,1,0,3,Kamothe,Sector 21 Kamothe
+16500000,1500,3,0,9,Kharghar,Kharghar
+14900000,900,2,0,4,Vashi,Vashi
+7200000,1012,2,0,3,Kamothe,Kamothe
+10000000,1129,2,0,3,Kamothe,Kamothe
+4925000,600,1,0,3,Kamothe,Kamothe
+7000000,1012,2,0,3,Kamothe,Kamothe
+12200000,1565,3,0,3,Kamothe,Kamothe
+5200000,630,1,0,3,Kamothe,Kamothe
+10400000,1129,2,0,3,Kamothe,Kamothe
+5100000,605,1,0,3,Kamothe,Kamothe
+5000000,600,1,0,3,Kamothe,Kamothe
+7900000,1000,2,0,3,Kamothe,Kamothe
+9500000,1310,2,0,3,Kamothe,Kamothe
+9500000,1225,2,0,3,Kamothe,Kamothe
+9300000,1310,2,0,3,Kamothe,Kamothe
+12500000,1540,3,0,3,Kamothe,Kamothe
+12400000,1565,3,0,3,Kamothe,Kamothe
+9800000,1225,2,0,3,Kamothe,Kamothe
+4950000,635,1,0,3,Kamothe,Kamothe
+5300000,650,1,0,3,Kamothe,Kamothe
+23000000,1680,2,0,4,Sanpada,Sector-8 Sanpada
+32500000,2415,4,0,4,Ghansoli,Sector-9 Ghansoli
+14800000,1245,2,0,4,Airoli,Airoli
+3700000,650,1,1,5,Taloja,Taloja
+4800000,660,1,1,2,Kharghar,Kharghar
+2800000,510,1,1,6,Taloja,Taloja
+2600000,520,1,1,4,Taloja,Taloja
+2400000,490,1,1,5,Taloja,Taloja
+2200000,470,1,1,6,Taloja,Taloja
+7400000,650,1,0,4,Nerul,Nerul
+4200000,650,1,0,3,Ulwe,Sector16 Ulwe
+11100000,1205,2,0,3,Seawoods,Seawoods
+8000000,950,2,0,3,Kharghar,Kharghar
+4300000,800,1,0,4,Kharghar,Kharghar
+8000000,1075,2,0,11,Kharghar,Kharghar
+8500000,1175,2,0,8,Kharghar,Kharghar
+8500000,1050,2,0,9,Kharghar,Kharghar
+9500000,1120,2,0,12,Kharghar,Kharghar
+6500000,735,1,0,10,Kharghar,Kharghar
+7000000,735,1,0,12,Kharghar,Kharghar
+6500000,649,1,0,7,Kharghar,Kharghar
+6500000,660,1,0,10,Kharghar,Kharghar
+8500000,1000,2,0,7,Kharghar,Kharghar
+10500000,1120,2,0,9,Kharghar,Kharghar
+8000000,954,2,0,4,Kharghar,Kharghar
+7800000,1000,2,0,8,Kharghar,Kharghar
+27799999,1600,3,0,12,Kharghar,Kharghar
+15000000,1050,2,0,10,Kharghar,Kharghar
+5800000,735,1,0,12,Kharghar,Kharghar
+4400000,620,1,0,5,Kharghar,Kharghar
+8500000,1115,2,0,11,Kharghar,Kharghar
+5500000,620,1,0,10,Kharghar,Kharghar
+13500000,1677,3,0,4,Kharghar,Kharghar
+20000000,1600,3,0,12,Kharghar,Kharghar
+5200000,641,1,0,10,Kharghar,Kharghar
+6000000,735,1,0,11,Kharghar,Kharghar
+8500000,1100,2,0,10,Kharghar,Kharghar
+11000000,1254,3,0,11,Kharghar,Kharghar
+6000000,750,1,0,10,Kharghar,Kharghar
+15000000,1380,3,0,11,Kharghar,Kharghar
+12000000,1210,2,0,12,Kharghar,Kharghar
+13000000,1498,3,0,8,Kharghar,Kharghar
+12000000,1395,3,1,11,Kharghar,Kharghar
+8700000,1050,2,0,11,Kharghar,Kharghar
+11500000,1133,2,1,9,Panvel,Panvel
+4907000,755,1,1,11,Panvel,Panvel
+8000000,1095,2,1,0,Kamothe,Kamothe
+25000000,2400,5,0,10,Kharghar,Kharghar
+4700000,675,1,0,0,Ulwe,Sector-8 Ulwe
+4300000,950,2,0,3,Taloja,Taloja
+3250000,690,1,0,3,Taloja,Taloja
+3750000,671,1,0,3,Taloja,Taloja
+5600000,1050,2,0,3,Taloja,taloja panchanand
+7700000,1095,2,0,0,Ulwe,Ulwe
+6800000,925,2,0,0,Ulwe,Ulwe
+4800000,725,1,0,0,Ulwe,Ulwe
+10500000,1355,2,0,0,Ulwe,Ulwe
+12000000,1750,3,0,0,Ulwe,Ulwe
+14500000,1215,2,0,0,Kharghar,Kharghar
+31500000,2700,5,1,6,Kharghar,Kharghar
+18500000,1650,3,1,6,Kharghar,Kharghar
+14000000,1100,2,1,0,Kharghar,Kharghar
+14000000,1150,2,0,11,Kharghar,Kharghar
+12500000,1150,2,0,11,Kharghar,Kharghar
+7150000,1050,2,0,4,Ulwe,Ulwe
+3500000,655,1,0,0,Ulwe,Ulwe
+7800000,1105,2,1,0,Ulwe,Ulwe
+8500000,1100,2,1,0,Ulwe,Ulwe
+9200000,1127,2,0,0,Ulwe,Ulwe
+8500000,1125,2,1,0,Ulwe,Ulwe
+8100000,1097,2,0,0,Ulwe,Ulwe
+5200000,688,1,0,0,Ulwe,Ulwe
+3700000,667,1,1,0,Ulwe,Ulwe
+5200000,679,1,0,0,Ulwe,Ulwe
+5400000,697,1,1,0,Ulwe,Ulwe
+65000000,5000,5,1,0,Belapur,Belapur
+5700000,725,1,0,0,Ulwe,Ulwe
+2700000,560,1,0,7,Panvel,Panvel
+8000000,1300,2,0,6,Panvel,Panvel
+6400000,495,1,0,0,Airoli,Airoli
+3800000,678,1,0,0,Ulwe,Ulwe
+6000000,660,1,1,0,Ghansoli,Ghansoli
+4300000,665,1,0,0,Ulwe,Ulwe
+8200000,1055,2,1,0,Ulwe,Ulwe
+4000000,685,1,0,0,Ulwe,Ulwe
+8500000,1075,2,0,0,Ulwe,Ulwe
+7500000,800,1,0,2,Ulwe,Ulwe
+9150000,1127,2,0,4,Belapur,Belapur
+13000000,1565,3,0,6,Ulwe,Ulwe
+11500000,860,2,0,0,Vashi,Vashi
+29200000,2905,5,0,4,Ulwe,Ulwe
+16800000,1690,3,0,4,Ulwe,Ulwe
+16000000,1215,2,0,4,Ulwe,Ulwe
+45000000,2905,4,0,4,Ulwe,Ulwe
+29200000,2905,4,0,2,Ulwe,Ulwe
+16500000,1850,3,0,4,Ulwe,Ulwe
+6000000,1000,2,1,6,Dronagiri,Dronagiri
+11500000,1350,2,1,5,Ulwe,Ulwe
+3800000,660,1,1,6,Dronagiri,Dronagiri
+6000000,1050,2,1,6,Dronagiri,Dronagiri
+17000000,1700,3,0,2,Ulwe,Ulwe
+4000000,660,1,1,6,Dronagiri,Dronagiri
+3500000,735,1,1,2,Dronagiri,Dronagiri
+3000000,665,1,1,0,Dronagiri,Dronagiri
+7600000,1050,2,0,2,Ulwe,Ulwe
+8100000,1175,2,1,5,Dronagiri,Dronagiri
+13000000,1240,2,0,3,Ulwe,Ulwe
+16500000,1660,3,0,0,Ulwe,Ulwe
+10500000,1540,3,1,4,Dronagiri,Dronagiri
+3500000,650,1,0,1,Ulwe,Ulwe
+4000000,650,1,0,9,Ulwe,Ulwe
+5250000,650,1,0,9,Ulwe,Ulwe
+7500000,1150,2,0,5,Ulwe,Ulwe
+4500000,680,1,0,4,Ulwe,Ulwe
+4151000,650,1,0,1,Ulwe,Ulwe
+2899000,450,1,0,2,Ulwe,Ulwe
+6850000,1050,2,0,5,Ulwe,Ulwe
+3000000,550,1,0,2,Ulwe,Ulwe
+4550000,650,1,0,7,Ulwe,Ulwe
+3990000,650,1,0,2,Ulwe,Ulwe
+4225000,650,1,0,1,Ulwe,Ulwe
+4140999,650,1,0,1,Ulwe,Ulwe
+7700000,1110,2,0,2,Kamothe,Kamothe
+2500000,450,1,0,2,Ulwe,Ulwe
+3500000,650,1,0,7,Ulwe,Sector 5 Ulwe
+4150000,650,1,0,5,Ulwe,Ulwe
+6800000,1050,2,0,4,Ulwe,Ulwe
+2999000,550,1,0,1,Ulwe,Ulwe
+5100000,650,1,0,3,Ulwe,Ulwe
+4099000,650,1,0,1,Ulwe,Ulwe
+4400000,650,1,0,3,Ulwe,Ulwe
+3300000,550,1,0,7,Panvel,Panvel
+6500000,1300,2,1,11,Panvel,Panvel
+4600000,665,1,0,0,Panvel,Panvel
+8628000,654,2,1,11,Panvel,Panvel
+9167000,686,2,1,11,Panvel,Panvel
+9745000,732,2,1,11,Panvel,Panvel
+10000000,762,2,1,11,Panvel,Panvel
+8200000,608,2,1,11,Panvel,Panvel
+11000000,837,2,1,11,Panvel,Panvel
+9013000,682,2,1,11,Panvel,Panvel
+12000000,931,3,1,11,Panvel,Panvel
+10800000,816,3,1,11,Panvel,Panvel
+7200000,1300,2,1,11,Panvel,Panvel
+6700000,1200,2,1,11,Panvel,Panvel
+4750000,900,2,0,11,Panvel,Panvel
+16000000,2020,3,0,12,Panvel,Panvel
+4700000,800,2,0,11,Panvel,Panvel
+4600000,910,2,0,11,Panvel,Panvel
+7500000,950,2,0,11,Panvel,Panvel
+4500000,930,2,0,11,Panvel,Panvel
+8900000,1690,3,0,11,Panvel,Panvel
+4900000,900,2,0,11,Panvel,Panvel
+13100000,2700,4,0,12,Panvel,Panvel
+6900000,1400,2,0,12,Panvel,Panvel
+9300000,1800,3,0,6,Panvel,Panvel
+9500000,1800,3,0,6,Panvel,Panvel
+4450000,600,1,0,6,Panvel,Panvel
+3800000,700,1,0,6,Panvel,Panvel
+6800000,1400,2,0,7,Panvel,Panvel
+11700000,1440,3,1,0,Panvel,Panvel
+5100000,675,1,1,7,Panvel,Panvel
+4700000,675,1,1,7,Panvel,Panvel
+8844000,1051,2,1,7,Panvel,Panvel
+7290000,950,2,1,7,Panvel,Panvel
+6787000,850,2,1,0,Panvel,Panvel
+7200000,961,2,0,8,Ulwe,Ulwe
+3000000,450,1,0,6,Ulwe,Ulwe
+7198999,1150,2,0,5,Ulwe,Ulwe
+8600000,1100,2,0,0,Kharghar,Kharghar
+4200000,640,1,1,0,Ulwe,Ulwe
+9000000,1031,2,0,0,Kharghar,Kharghar
+5600000,620,1,0,0,Kharghar,Kharghar
+8600000,615,1,0,5,Seawoods,Seawoods
+23500000,1310,1,0,9,Nerul,Nerul
+8000000,605,1,0,1,Seawoods,Seawoods
+21500000,1250,1,0,9,Seawoods,Seawoods
+19100000,1205,1,0,11,Seawoods,Seawoods
+21700000,1250,1,0,9,Seawoods,Seawoods
+19200000,1205,1,0,11,Seawoods,Seawoods
+21500000,1300,1,0,11,Seawoods,Seawoods
+19000000,1205,1,0,11,Seawoods,Seawoods
+7500000,682,1,0,5,Seawoods,Seawoods
+21000000,1425,1,0,11,Seawoods,Seawoods
+21000000,1425,2,0,10,Seawoods,Seawoods
+13500000,1092,1,0,6,Seawoods,Seawoods
+8500000,1080,2,0,1,Kharghar,Kharghar
+10500000,980,2,0,0,Kharghar,Kharghar
+6500000,685,1,0,0,Kharghar,Kharghar
+15500000,1525,3,0,6,Kharghar,Kharghar
+13500000,1370,3,0,0,Kharghar,Kharghar
+9000000,1150,2,0,0,Kharghar,Kharghar
+2750000,450,1,0,3,Ulwe,Ulwe
+7200000,1050,2,0,8,Ulwe,Ulwe
+9000000,1550,2,0,10,Ulwe,Ulwe
+7000000,1100,2,0,9,Ulwe,Ulwe
+3950000,630,1,1,1,Ulwe,Ulwe
+15500000,1450,3,0,6,Kharghar,Kharghar
+7500000,920,2,0,1,Kharghar,Kharghar
+8500000,1220,2,0,1,Kharghar,Kharghar
+5600000,560,1,0,1,Kharghar,Kharghar
+21000000,1190,2,0,12,Seawoods,Seawoods
+6500000,630,1,0,2,Kharghar,Kharghar
+7000000,950,2,0,1,Kharghar,Kharghar
+4000000,650,1,0,1,Kharghar,Kharghar
+12500000,1650,3,0,4,Kharghar,Kharghar
+3400000,650,1,0,1,Kharghar,Kharghar
+65000000,3200,5,0,5,Seawoods,Seawoods
+2600000,570,1,0,3,Vashi,Vashi
+6900000,700,1,0,5,Kharghar,Kharghar
+7000000,720,1,0,6,Kharghar,Kharghar
+7400000,950,1,0,1,Kharghar,Kharghar
+9300000,1100,2,0,3,Kharghar,Kharghar
+10000000,1125,2,0,5,Kharghar,Kharghar
+5200000,650,1,0,1,Kharghar,Kharghar
+6500000,700,1,0,0,Kharghar,Kharghar
+6500000,711,1,0,4,Kharghar,Kharghar
+11500000,1270,2,0,1,Kharghar,Kharghar
+8000000,1050,2,0,9,Ulwe,Ulwe
+15000000,1200,2,0,6,Kharghar,Kharghar
+8000000,1100,2,0,8,Ulwe,Ulwe
+8500000,1120,2,0,0,Kharghar,Kharghar
+6500000,950,2,0,1,Kharghar,Kharghar
+17000000,1450,3,0,0,Kharghar,Kharghar
+5500000,675,1,0,0,Kharghar,Kharghar
+8499000,1050,2,0,4,Kharghar,Kharghar
+9500000,1200,2,0,3,Kharghar,Kharghar
+5500000,650,1,0,1,Ulwe,Ulwe
+4200000,720,1,0,0,Ulwe,Ulwe
+4200000,675,1,0,1,Kharghar,Kharghar
+2700000,400,1,1,8,Taloja,Taloja
+5500000,900,2,1,12,Taloja,Taloja
+3000000,450,1,1,6,Taloja,Taloja
+4500000,610,1,0,4,Kamothe,Kamothe
+11100000,1205,1,0,1,Seawoods,Seawoods
+7000000,1135,2,0,11,Taloja,Taloja
+4500000,738,1,0,11,Taloja,Taloja
+14000000,1020,2,0,6,Belapur,Belapur
+24000000,2400,3,1,6,Sanpada,Sanpada
+19500000,1600,3,0,6,Belapur,Belapur
+15500000,1300,2,0,6,Belapur,Belapur
+19000000,1291,2,0,11,Seawoods,Seawoods
+11500000,1000,2,0,4,Belapur,Belapur
+30000000,2110,3,1,6,Seawoods,Seawoods
+70000000,2500,4,0,12,Seawoods,Seawoods
+17500000,3200,5,0,7,Panvel,Panvel
+16800000,1100,2,0,6,Seawoods,Seawoods
+27000000,2200,3,0,6,Belapur,Belapur
+8500000,1050,2,1,11,Kamothe,Kamothe
+8000000,1000,2,0,10,Ulwe,Ulwe
+23000000,1650,3,0,9,Ghansoli,Ghansoli
+2460000,510,1,1,8,Taloja,Taloja
+7548000,950,2,1,6,Panvel,Panvel
+12000000,1550,3,1,5,Ulwe,Ulwe
+4400000,685,1,1,2,Ulwe,Ulwe
+13000000,1350,2,1,6,Ulwe,Ulwe
+9100000,1168,2,0,5,Kamothe,Kamothe
+10000000,1156,2,0,4,Ulwe,Ulwe
+16000000,1650,3,1,4,Ulwe,Ulwe
+11500000,1220,2,1,6,Ulwe,Ulwe
+9500000,1150,2,0,4,Ulwe,Ulwe
+14100000,1650,3,0,4,Ulwe,Ulwe
+33500000,2000,4,0,12,Sanpada,Sanpada
+14400000,860,2,0,12,Sanpada,Sanpada
+9199000,600,1,0,12,Sanpada,Sanpada
+25500000,1900,3,0,5,Belapur,Belapur
+4300000,700,1,0,6,Kharghar,Kharghar
+11200000,1150,2,0,5,Ulwe,Ulwe
+37400000,3400,4,1,4,Ulwe,Ulwe
+25400000,1900,3,0,4,Belapur,Belapur
+12100000,1215,2,1,4,Ulwe,Ulwe
+33400000,2950,4,1,6,Ulwe,Ulwe
+22500000,1800,3,1,6,Belapur,Belapur
+15900000,1090,2,0,5,Belapur,Belapur
+22500000,1500,3,0,12,Sanpada,Sanpada
+22500000,1650,3,0,11,Sanpada,Sanpada
+2360000,546,1,1,8,Taloja,Taloja
+2320000,570,1,1,8,Taloja,Taloja
+2640000,560,1,1,8,Taloja,Taloja
+12100000,1240,2,0,11,Kharghar,Kharghar
+13500000,1375,3,0,9,Kharghar,Kharghar
+9199000,1065,2,0,9,Kharghar,Kharghar
+6400000,670,1,0,9,Kharghar,Kharghar
+23500000,1250,1,0,9,Nerul,Nerul
+22000000,1125,1,0,11,Seawoods,Seawoods
+19200000,1231,1,0,11,Seawoods,Seawoods
+27500000,1650,2,0,9,Seawoods,Seawoods
+9300000,1240,2,0,11,Kharghar,Kharghar
+13500000,1680,3,0,11,Kharghar,Kharghar
+3299000,950,2,1,10,Taloja,Taloja
+3799000,850,2,1,5,Taloja,Taloja
+8900000,1065,2,0,6,Kharghar,Kharghar
+4602000,550,1,1,8,Panvel,Panvel
+6600000,750,2,1,6,Panvel,Panvel
+7500000,750,2,1,6,Panvel,Panvel
+4700000,700,1,0,8,Taloja,Taloja
+4000000,660,1,1,11,Taloja,Taloja
+4000000,680,1,1,9,Ulwe,Ulwe
+8400000,1150,2,0,2,Ulwe,Ulwe
+12000000,950,2,0,0,Sanpada,Sanpada
+7250000,1300,2,1,11,Panvel,Panvel
+7600000,1075,2,0,9,Ulwe,Ulwe
+9000000,1180,2,0,10,Ulwe,Ulwe
+5600000,670,1,0,8,Ulwe,Ulwe
+10100000,1379,3,0,11,Ulwe,Ulwe
+4200000,675,1,0,1,Ulwe,Ulwe
+6800000,1080,2,0,3,Ulwe,Ulwe
+6500000,1050,2,0,1,Ulwe,Ulwe
+8200000,1130,2,0,9,Ulwe,Ulwe
+7600000,1100,2,0,2,Ulwe,Ulwe
+8495000,1307,2,1,11,Panvel,Panvel
+4823000,742,1,1,11,Panvel,Panvel
+11500000,1771,3,1,11,Panvel,Panvel
+7618000,1172,2,1,11,Panvel,Panvel
+6454000,993,1,1,11,Panvel,Panvel
+17000000,2621,4,1,11,Panvel,Panvel
+4000000,490,1,1,11,Panvel,Panvel
+11299999,1750,3,1,11,Panvel,Panvel
+4300000,530,1,1,11,Panvel,Panvel
+15700000,2420,4,1,11,Panvel,Panvel
+15200000,2351,3,1,11,Panvel,Panvel
+8287000,1275,2,1,11,Panvel,Panvel
+7930000,1220,2,1,11,Panvel,Panvel
+13000000,2010,3,1,11,Panvel,Panvel
+16200000,2495,4,1,11,Panvel,Panvel
+11200000,1726,3,1,11,Panvel,Panvel
+3185000,490,1,1,11,Panvel,Panvel
+3445000,530,1,1,11,Panvel,Panvel
+11100000,1050,2,0,2,Airoli,Airoli
+15500000,1365,3,0,10,Ghansoli,Ghansoli
+16000000,1140,2,0,12,Ghansoli,Ghansoli
+29000000,2065,3,0,7,Ghansoli,Ghansoli
+19800000,1400,2,0,7,Ghansoli,Ghansoli
+16000000,1550,3,0,10,Ghansoli,Ghansoli
+14500000,1145,2,0,10,Ghansoli,Ghansoli
+12000000,925,2,0,11,Ghansoli,Ghansoli
+12500000,1145,2,0,7,Ghansoli,Ghansoli
+13000000,1050,2,0,11,Ghansoli,Ghansoli
+8900000,640,1,0,10,Ghansoli,Ghansoli
+21000000,1665,3,0,10,Ghansoli,Ghansoli
+9000000,695,1,0,12,Ghansoli,Ghansoli
+16500000,1100,2,0,10,Ghansoli,Ghansoli
+11000000,905,2,0,11,Ghansoli,Ghansoli
+11500000,1240,2,1,8,Ulwe,Ulwe
+3800000,650,1,0,11,Taloja,Taloja
+5500000,1050,2,0,6,Taloja,Taloja
+3000000,500,1,0,3,Taloja,Taloja
+6400000,1150,2,1,2,Taloja,Taloja
+15500000,1200,2,0,7,Ghansoli,Ghansoli
+15500000,1205,2,1,9,Ghansoli,Ghansoli
+9000000,702,1,1,9,Ghansoli,Ghansoli
+7500000,600,1,0,9,Airoli,Airoli
+7600000,650,1,0,6,Airoli,Airoli
+15000000,1650,3,1,12,Ulwe,Ulwe
+10000000,1055,2,0,10,Kharghar,Kharghar
+5000000,705,1,1,7,Panvel,Panvel
+8500000,1055,1,1,12,Panvel,Panvel
+12500000,1240,2,1,7,Kharghar,Kharghar
+16299999,1705,3,1,11,Kharghar,Kharghar
+9700000,1140,2,1,11,Panvel,Panvel
+7200000,1500,3,0,6,Taloja,Taloja
+13400000,2582,4,1,11,Panvel,Panvel
+6500000,650,1,0,3,Airoli,Airoli
+9500000,780,1,0,5,Airoli,Airoli
+6600000,640,1,0,2,Airoli,Airoli
+7800000,660,1,0,0,Airoli,Airoli
+5900000,666,1,0,0,Airoli,Airoli
+7500000,1050,1,0,8,Airoli,Airoli
+7000000,700,1,0,4,Airoli,Airoli
+7000000,680,1,0,0,Airoli,Airoli
+40000000,3500,5,0,6,Kharghar,Kharghar
+7500000,1100,2,0,1,Ulwe,Ulwe
+5500000,675,1,0,0,Ulwe,Ulwe
+5000000,650,1,0,5,Ulwe,Ulwe
+4390000,606,2,1,0,Panvel,Panvel
+2950000,428,1,1,0,Panvel,Panvel
+2750000,394,1,1,0,Panvel,Panvel
+2684000,385,1,1,0,Panvel,Panvel
+2882000,415,1,1,0,Panvel,Panvel
+4000000,550,2,1,0,Panvel,Panvel
+13000000,1586,3,0,7,Ulwe,Ulwe
+4000000,635,1,1,1,Ulwe,Ulwe
+4500000,665,1,1,1,Ulwe,Ulwe
+14000000,1245,2,0,6,Airoli,Airoli
+7000000,920,1,1,1,Ulwe,Ulwe
+8000000,920,2,1,1,Ulwe,Ulwe
+8500000,920,2,1,1,Ulwe,Ulwe
+6998999,650,1,1,1,Ulwe,Ulwe
+7000000,650,1,1,0,Ulwe,Ulwe
+3500000,620,1,1,1,Ulwe,Ulwe
+4800000,670,1,0,1,Ulwe,Ulwe
+4800000,675,1,0,1,Ulwe,Ulwe
+8500000,1050,2,1,5,Ulwe,Ulwe
+12500000,1100,2,0,7,Kharghar,Kharghar
+12000000,1200,2,0,11,Kharghar,Kharghar
+5800000,650,1,0,7,Kharghar,Kharghar
+16700000,2200,4,1,11,Kharghar,Kharghar
+8588000,1130,2,1,11,Kharghar,Kharghar
+3800000,650,1,0,1,Ulwe,Ulwe
+4200000,650,1,0,1,Ulwe,Ulwe
+4100000,650,1,0,1,Ulwe,Ulwe
+4500000,665,1,0,0,Taloja,Taloja
+3350000,650,1,1,2,Taloja,Taloja
+3100000,420,1,0,0,Ulwe,Ulwe
+3400000,650,1,0,1,Ulwe,Ulwe
+2700000,420,1,0,1,Ulwe,Ulwe
+5500000,585,1,0,2,Kharghar,Kharghar
+11000000,1250,2,1,9,Ulwe,Ulwe
+12000000,1450,3,1,0,Ulwe,Ulwe
+9000000,1050,2,0,10,Ulwe,Ulwe
+9500000,1100,2,1,6,Ulwe,Ulwe
+14000000,1653,3,1,12,Ulwe,Ulwe
+9500000,1050,2,1,9,Ulwe,Ulwe
+6000000,650,1,0,2,Ulwe,Ulwe
+5000000,680,1,1,5,Ulwe,Ulwe
+7500000,1050,2,0,2,Ulwe,Ulwe
+3499000,420,1,0,1,Ulwe,Ulwe
+5300000,650,1,0,0,Ulwe,Ulwe
+5200000,650,1,0,1,Ulwe,Ulwe
+3300000,630,1,1,1,Ulwe,Ulwe
+3700000,650,1,0,1,Ulwe,Ulwe
+5400000,650,1,0,2,Ulwe,Ulwe
+12100000,1600,3,1,11,Kharghar,Kharghar
+8399000,430,2,1,10,Panvel,Panvel
+8975000,460,2,1,10,Panvel,Panvel
+8599000,440,2,1,10,Panvel,Panvel
+9618000,493,2,1,10,Panvel,Panvel
+7600000,1000,2,1,3,Ulwe,Ulwe
+7600000,1020,2,0,3,Ulwe,Ulwe
+6100000,650,1,0,1,Airoli,Airoli
+9000000,1150,2,1,3,Ulwe,Ulwe
+5700000,670,1,0,0,Ulwe,Ulwe
+9600000,900,2,0,8,Kharghar,Kharghar
+6000000,1000,2,0,0,Kharghar,Kharghar
+12000000,1400,2,0,0,Kharghar,Kharghar
+4900000,690,1,0,0,Kharghar,Kharghar
+8500000,1123,2,1,6,Ulwe,Ulwe
+11500000,1142,2,1,6,Ulwe,Ulwe
+7500000,675,1,0,8,Airoli,Airoli
+4700000,656,1,1,0,Ulwe,Ulwe
+7800000,1050,2,0,4,Ulwe,Ulwe
+10000000,1100,2,1,12,Ulwe,Ulwe
+3900000,670,1,0,2,Ulwe,Ulwe
+7400000,980,2,1,2,Ulwe,Ulwe
+13500000,1538,3,1,8,Ulwe,Ulwe
+9000000,1120,2,1,0,Ulwe,Ulwe
+8500000,1000,2,1,6,Ulwe,Ulwe
+11000000,1350,3,1,11,Ulwe,Ulwe
+11500000,1450,3,1,6,Ulwe,Ulwe
+6800000,1000,2,0,4,Ulwe,Ulwe
+8000000,1055,2,1,6,Ulwe,Ulwe
+5100000,690,1,1,0,Ulwe,Ulwe
+7000000,1030,2,0,0,Ulwe,Ulwe
+4100000,555,1,1,1,Ulwe,Ulwe
+5500000,800,1,0,11,Panvel,Panvel
+4500000,705,1,1,3,Panvel,Panvel
+9800000,900,2,1,11,Panvel,Panvel
+9500000,812,2,1,9,Panvel,Panvel
+4500000,550,1,1,2,Kamothe,Kamothe
+9600000,850,2,1,5,Panvel,Panvel
+8800000,848,2,1,11,Panvel,Panvel
+13500000,527,2,1,2,Airoli,Airoli
+17500000,781,3,1,2,Airoli,Airoli
+30000000,1786,3,0,3,Vashi,Vashi
+10000000,1210,2,1,10,Ulwe,Ulwe
+4700000,675,1,1,0,Ulwe,Ulwe
+12700000,1385,3,0,0,Kharghar,Kharghar
+6300000,750,1,1,4,Ulwe,Ulwe
+9000000,600,1,0,12,Sanpada,Sanpada
+6500000,750,1,0,1,Sanpada,Sanpada
+8000000,600,1,0,13,Sanpada,Sanpada
+18500000,1400,2,0,11,Sanpada,Sanpada
+19000000,1500,3,0,12,Sanpada,Sanpada
+18000000,1215,3,0,13,Sanpada,Sanpada
+14500000,1215,2,0,4,Nerul,Nerul
+8500000,506,1,0,13,Sanpada,Sanpada
+16600000,1275,3,1,12,Panvel,Panvel
+10800000,858,2,1,12,Panvel,Panvel
+16100000,1222,3,1,12,Panvel,Panvel
+11500000,894,2,1,12,Panvel,Panvel
+17500000,1335,2,1,12,Belapur,Belapur
+40000000,1850,3,0,9,Seawoods,Seawoods
+7500000,1350,2,0,0,Ulwe,Ulwe
+13000000,1150,2,0,2,Nerul,Nerul
+3200000,365,1,0,3,Kamothe,Kamothe
+6500000,645,1,0,2,Ghansoli,Ghansoli
+8000000,1155,2,0,0,Ulwe,Ulwe
+11500000,1260,2,0,7,Ulwe,Ulwe
+8800000,1235,2,0,10,Ulwe,Ulwe
+12000000,851,2,0,13,Sanpada,Sanpada
+7400000,576,1,0,13,Sanpada,Sanpada
+11800000,900,2,0,12,Sanpada,Sanpada
+13500000,910,2,0,13,Sanpada,Sanpada
+21500000,1645,3,0,7,Sanpada,Sanpada
+20000000,1250,3,0,13,Sanpada,Sanpada
+19500000,1215,3,0,13,Sanpada,Sanpada
+11000000,1580,3,0,12,Ulwe,Ulwe
+18000000,1435,2,0,11,Sanpada,Sanpada
+22000000,1640,3,0,12,Sanpada,Sanpada
+16500000,1313,2,0,11,Sanpada,Sanpada
+24000000,1600,3,0,0,Sanpada,Sanpada
+31500000,2000,4,0,12,Sanpada,Sanpada
+4200000,695,1,0,0,Ulwe,Ulwe
+6000000,1000,2,0,0,Ulwe,Ulwe
+8000000,1140,2,0,8,Ulwe,Ulwe
+3500000,650,1,1,2,Dronagiri,Dronagiri
+3600000,640,1,1,1,Dronagiri,Dronagiri
+2700000,450,1,0,0,Ulwe,Ulwe
+9800000,873,2,0,0,Airoli,Sector 9 Airoli
+16000000,2000,3,0,7,Kamothe,Kamothe
+4000000,680,1,0,0,Panvel,Panvel
+8000000,1300,3,0,5,Panvel,Panvel
+7500000,1050,2,0,2,Seawoods,Seawoods
+30000000,1550,3,0,7,Belapur,Belapur
+5000000,700,1,0,0,Ulwe,Ulwe
+5400000,655,1,0,7,Kamothe,Kamothe
+6800000,800,2,1,9,Panvel,Panvel
+15000000,1350,2,0,9,Belapur,Belapur
+25000000,1650,3,0,7,Belapur,Belapur
+14000000,1154,2,0,5,Vashi,Vashi
+8500000,1045,2,0,8,Kamothe,Kamothe
+22000000,1715,3,0,0,Kharghar,Kharghar
+24500000,1550,3,0,0,Belapur,Belapur
+32000000,3205,4,1,12,Kharghar,Kharghar
+7000000,750,2,0,4,Kharghar,Kharghar
+5500000,727,1,0,0,Ulwe,Ulwe
+12000000,1650,3,1,13,Ulwe,Ulwe
+8800000,1185,2,1,11,Ulwe,Ulwe
+15100000,1450,3,0,0,Ghansoli,Ghansoli
+12000000,1150,2,1,11,Kharghar,Kharghar
+2700000,649,1,0,0,Taloja,Taloja
+9000000,1005,2,0,7,Kharghar,Kharghar
+11800000,1440,3,1,12,Panvel,Panvel
+10800000,1280,3,1,12,Panvel,Panvel
+3050000,565,1,0,4,Panvel,Panvel
+8200000,1055,2,1,12,Panvel,Panvel
+8000000,1005,2,1,12,Panvel,Panvel
+8400000,1055,2,1,11,Panvel,Panvel
+8000000,1020,2,1,11,Panvel,Panvel
+9300000,1075,2,1,11,Panvel,Panvel
+6500000,1240,2,1,11,Panvel,Panvel
+22000000,1350,3,0,7,Belapur,Belapur
+13000000,1001,2,0,4,Belapur,Belapur
+7000000,1245,2,1,11,Panvel,Panvel
+8500000,1260,2,1,6,Kharghar,Kharghar
+12500000,1250,2,1,9,Ulwe,Ulwe
+5300000,660,1,0,1,Kamothe,Kamothe
+3750000,645,1,0,1,Ulwe,Ulwe
+3700000,620,1,1,2,Ulwe,Ulwe
+3675000,610,1,0,0,Ulwe,Ulwe
+11000000,1096,2,0,7,Kharghar,Kharghar
+14500000,1660,3,1,12,Ulwe,Ulwe
+10300000,1252,2,0,10,Kamothe,Kamothe
+12500000,1240,2,1,12,Ulwe,Ulwe
+7000000,1520,3,1,6,Taloja,Taloja
+4900000,1055,2,1,6,Taloja,Taloja
+30000000,2065,3,0,6,Ghansoli,Ghansoli
+7100000,1200,2,0,9,Panvel,Panvel
+8800000,1005,2,1,11,Panvel,Panvel
+8200000,950,2,1,11,Panvel,Panvel
+9000000,1227,2,0,12,Kharghar,Kharghar
+15200000,1697,3,0,7,Kharghar,Kharghar
+11500000,1100,2,0,8,Kharghar,Kharghar
+13799999,1257,2,0,7,Kharghar,Kharghar
+8200000,1150,2,1,11,Panvel,Panvel
+14500000,1309,2,0,11,Kharghar,Kharghar
+11500000,1820,3,0,10,Kharghar,Kharghar
+11000000,1100,2,0,3,Nerul,Nerul
+29000000,1800,3,0,11,Ghansoli,Ghansoli
+5200000,675,1,0,10,Ulwe,Ulwe
+18000000,1351,3,1,8,Seawoods,Seawoods
+20000000,1440,3,1,10,Seawoods,Seawoods
+14200000,1055,2,1,10,Seawoods,Seawoods
+14600000,1084,2,1,8,Seawoods,Seawoods
+14400000,1030,2,1,9,Seawoods,Seawoods
+7000000,600,1,0,1,Airoli,Airoli
+2900000,500,1,1,6,Taloja,Taloja
+31000000,1825,3,0,12,Nerul,Nerul
+22000000,1800,3,0,9,Belapur,Belapur
+14000000,1225,2,1,9,Belapur,Belapur
+42600000,2000,3,0,6,Nerul,Nerul
+3700000,550,1,1,10,Taloja,Taloja
+7100000,1059,2,1,0,Ulwe,Ulwe
+2650000,420,1,1,0,Ulwe,Ulwe
+2700000,400,1,1,0,Ulwe,Ulwe
+7500000,950,2,0,11,Kharghar,Kharghar
+10000000,1335,2,0,6,Ulwe,Ulwe
+14800000,1200,2,0,9,Ghansoli,Ghansoli
+8200000,900,2,0,0,Ghansoli,Ghansoli
+9300000,1050,2,0,11,Kharghar,Kharghar
+13500000,1056,2,0,8,Seawoods,Seawoods
+14000000,1055,2,0,10,Seawoods,Seawoods
+13500000,1190,2,0,9,Kharghar,Kharghar
+15500000,1150,2,1,11,Kharghar,Kharghar
+19500000,1600,3,1,10,Kharghar,Kharghar
+11500000,1450,2,1,13,Ulwe,Ulwe
+4800000,1600,2,0,8,Panvel,Panvel
+2600000,400,1,1,0,Ulwe,Ulwe
+17000000,1200,2,0,10,Ghansoli,Ghansoli
+8500000,700,1,0,10,Ghansoli,Ghansoli
+7400000,880,2,0,2,Panvel,Panvel
+30000000,3500,4,0,0,Kharghar,Kharghar
+28500000,3500,4,0,7,Kharghar,Kharghar
+2800000,555,1,1,0,Dronagiri,Dronagiri
+2600000,530,1,1,0,Dronagiri,Dronagiri
+4250000,640,1,0,3,Kamothe,Kamothe
+4275000,660,1,0,1,Kamothe,Kamothe
+4250000,650,1,1,1,Kamothe,Kamothe
+4200000,640,1,1,1,Kamothe,Kamothe
+18000000,1000,2,0,0,Vashi,Vashi
+91800000,2600,4,0,0,Nerul,Nerul
+9700000,1150,2,1,0,Ulwe,Ulwe
+3500000,687,1,1,0,Ulwe,Ulwe
+4000000,679,1,0,0,Ulwe,Ulwe
+7500000,1155,2,1,0,Ulwe,Ulwe
+7500000,1055,2,1,0,Ulwe,Ulwe
+3800000,667,1,0,0,Ulwe,Ulwe
+4800000,687,1,0,0,Ulwe,Ulwe
+4500000,650,1,0,11,Taloja,Taloja
+12000000,1375,3,0,9,Kharghar,Kharghar
+7800000,1103,2,0,0,Kamothe,Kamothe
+4600000,685,1,0,2,Ulwe,Ulwe
+13000000,1350,3,0,8,Ulwe,Ulwe
+7000000,750,2,0,6,Panvel,Panvel
+17000000,1400,3,0,0,Sanpada,Sanpada
+10000000,1234,2,1,11,Kharghar,Kharghar
+19000000,1600,3,0,11,Kharghar,Kharghar
+6200000,700,1,0,9,Ulwe,Ulwe
+15500000,1515,3,0,6,Kharghar,Kharghar
+37500000,1750,3,0,6,Kharghar,Kharghar
+21000000,1900,3,0,0,Kharghar,Kharghar
+8900000,1100,2,1,9,Ulwe,Ulwe
+6800000,605,1,0,10,Kharghar,Kharghar
+10000000,1120,2,0,10,Kharghar,Kharghar
+10500000,1140,2,1,12,Ulwe,Ulwe
+33500000,2040,3,1,5,Seawoods,Seawoods
+12000000,1150,3,0,7,Ulwe,Ulwe
+12000000,1580,3,1,8,Ulwe,Ulwe
+11000000,1650,3,0,8,Ulwe,Ulwe
+6500000,735,1,0,4,Ulwe,Ulwe
+25000000,1850,3,0,7,Belapur,Belapur
+3400000,580,1,0,6,Panvel,Panvel
+5900000,950,2,0,0,Panvel,Panvel
+6500000,670,1,0,3,Ghansoli,Ghansoli
+25000000,1800,3,0,0,Vashi,Vashi
+47500000,2050,4,0,1,Vashi,Vashi
+7700000,1010,2,0,9,Kamothe,Kamothe
+8600000,1177,2,0,5,Kamothe,Kamothe
+5500000,700,2,1,0,Ulwe,Ulwe
+13200000,1548,3,1,7,Ulwe,Ulwe
+9400000,1250,2,1,7,Ulwe,Ulwe
+10000000,1180,2,1,13,Ulwe,Ulwe
+8400000,952,2,0,1,Airoli,Airoli
+27000000,1281,2,0,10,Seawoods,Seawoods
+35000000,1650,3,0,10,Seawoods,Seawoods
+70000000,4250,3,0,10,Seawoods,Seawoods
+23000000,1850,3,0,6,Seawoods,Seawoods
+22500000,1281,2,0,9,Seawoods,Seawoods
+8400000,950,2,1,9,Panvel,Panvel
+9500000,1200,2,1,9,Panvel,Panvel
+9200000,1150,2,1,9,Panvel,Panvel
+9000000,1145,2,1,12,Ulwe,Ulwe
+23000000,1800,3,0,10,Kharghar,Kharghar
+23500000,1850,3,1,0,Belapur,Belapur
+23000000,1850,3,1,7,Belapur,Belapur
+13000000,1050,2,1,10,Kharghar,Kharghar
+25000000,1600,3,0,0,Vashi,Vashi
+30000000,1212,3,0,1,Vashi,Vashi
+8500000,1300,1,1,0,Panvel,Panvel
+8000000,1200,1,1,0,Panvel,Panvel
+4400000,550,1,1,0,Panvel,Panvel
+4500000,650,1,1,0,Panvel,Panvel
+5250000,679,1,0,0,Ulwe,Ulwe
+3900000,724,1,1,6,Taloja,Taloja
+13500000,1635,3,1,11,Ulwe,Ulwe
+13799999,1635,3,1,12,Ulwe,Ulwe
+16500000,1240,2,0,10,Ghansoli,Ghansoli
+14800000,1660,3,1,12,Ulwe,Ulwe
+13500000,1385,3,1,8,Ulwe,Ulwe
+3500000,650,1,0,6,Ulwe,Sector-8 Ulwe
+30000000,2000,4,0,3,Vashi,Vashi
+8600000,1150,2,1,5,Kamothe,Kamothe
+8200000,1109,2,1,10,Kamothe,Kamothe
+9000000,1125,2,1,11,Panvel,Panvel
+8400000,660,1,0,0,Airoli,Airoli
+7300000,600,1,0,3,Airoli,Airoli
+5800000,660,1,1,1,Ghansoli,Ghansoli
+8700000,1158,2,0,0,Ulwe,Ulwe
+11500000,1550,3,1,0,Ulwe,Ulwe
+12500000,1570,3,1,0,Ulwe,Ulwe
+9000000,1155,2,1,0,Ulwe,Ulwe
+8800000,1157,2,0,0,Ulwe,Ulwe
+8300000,1157,2,1,0,Ulwe,Ulwe
+9800000,1165,2,0,0,Ulwe,Ulwe
+8300000,1140,2,0,0,Ulwe,Ulwe
+8500000,1155,2,1,0,Ulwe,Ulwe
+9000000,1225,3,1,0,Ghansoli,Ghansoli
+5800000,650,1,0,8,Ulwe,Ulwe
+7700000,1162,2,0,0,Kharghar,Kharghar
+8000000,879,2,0,5,Ulwe,Ulwe
+9500000,1200,2,0,12,Ulwe,Ulwe
+9200000,1165,2,0,12,Ulwe,Ulwe
+11000000,1250,2,0,10,Ulwe,Sector 17 Ulwe
+8200000,1100,2,0,9,Ulwe,Ulwe
+18000000,2250,2,1,9,Kamothe,Kamothe
+17000000,2250,3,1,9,Kamothe,Kamothe
+16000000,2200,3,1,9,Kamothe,Kamothe
+9400000,1800,3,1,9,Kamothe,Kamothe
+9600000,1500,3,1,9,Kamothe,Kamothe
+9500000,1400,3,1,9,Kamothe,Kamothe
+8000000,930,2,1,9,Kamothe,Kamothe
+7700000,1100,2,1,9,Kamothe,Kamothe
+7500000,950,2,1,9,Kamothe,Kamothe
+8000000,1150,2,1,9,Kamothe,Kamothe
+7500000,1110,2,1,9,Kamothe,Kamothe
+8400000,1010,1,1,5,Panvel,Panvel
+8700000,1200,2,1,5,Panvel,Panvel
+8400000,1050,2,1,5,Panvel,Panvel
+8500000,1110,2,1,5,Panvel,Panvel
+5500000,580,2,0,0,Kharghar,Kharghar
+8000000,1050,2,0,5,Kamothe,Kamothe
+13000000,1220,2,0,12,Kharghar,Kharghar
