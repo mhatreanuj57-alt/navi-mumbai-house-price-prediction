@@ -1,0 +1,559 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Navi Mumbai / BMC House Price Finder</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+    <style>
+      :root {
+        --g: #075c45;
+        --l: #08966c;
+        --ink: #193b31;
+        --muted: #667b74;
+        --line: #dce8e2;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        background: #f5f8f7;
+        color: var(--ink);
+        font:
+          15px Inter,
+          system-ui,
+          sans-serif;
+      }
+      .wrap {
+        max-width: 1120px;
+        margin: auto;
+        padding: 28px 20px 56px;
+      }
+      .hero,
+      .card {
+        border-radius: 18px;
+      }
+      .hero {
+        background: linear-gradient(135deg, #064e3b, #07966d);
+        color: #fff;
+        padding: 31px;
+      }
+      .hero h1 {
+        margin: 0;
+        font-size: clamp(1.65rem, 4vw, 2.4rem);
+      }
+      .hero p {
+        margin: 9px 0 0;
+        color: #bcebd5;
+      }
+      .tabs {
+        display: flex;
+        gap: 8px;
+        margin: 20px 0;
+      }
+      .tabs button {
+        border: 0;
+        border-radius: 9px;
+        padding: 10px 15px;
+        font: inherit;
+        font-weight: 700;
+        color: var(--muted);
+        background: #e8efeb;
+        cursor: pointer;
+      }
+      .tabs button.active {
+        background: var(--g);
+        color: white;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: 1fr 1.18fr;
+        gap: 20px;
+      }
+      .card {
+        background: #fff;
+        padding: 22px;
+        box-shadow: 0 4px 18px #164e3b10;
+      }
+      label,
+      .caption {
+        display: block;
+        font-size: 0.75rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        font-weight: 800;
+        color: var(--muted);
+        margin: 15px 0 7px;
+      }
+      select,
+      input {
+        width: 100%;
+        border: 1px solid var(--line);
+        border-radius: 10px;
+        padding: 11px;
+        font: inherit;
+      }
+      .row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+      }
+      .toggle {
+        display: flex;
+        gap: 16px;
+      }
+      .toggle label {
+        margin: 3px 0;
+        text-transform: none;
+        letter-spacing: 0;
+        font-size: 0.95rem;
+      }
+      .price {
+        background: linear-gradient(135deg, #064e3b, #07966d);
+        color: #fff;
+        text-align: center;
+        padding: 28px;
+      }
+      .small {
+        color: #bcebd5;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        font-size: 0.76rem;
+        font-weight: 800;
+      }
+      .price h2 {
+        font-size: 3.05rem;
+        margin: 9px 0;
+      }
+      .chips {
+        display: flex;
+        gap: 7px;
+        justify-content: center;
+        flex-wrap: wrap;
+      }
+      .chip {
+        background: #ffffff20;
+        padding: 6px 10px;
+        border-radius: 18px;
+      }
+      .lower {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+        margin-top: 20px;
+      }
+      #map {
+        height: 300px;
+        border-radius: 12px;
+      }
+      .ladder {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 8px;
+      }
+      .step {
+        border: 1px solid var(--line);
+        border-radius: 10px;
+        padding: 11px;
+        text-align: center;
+      }
+      .step b {
+        display: block;
+        color: var(--g);
+        margin: 5px 0;
+      }
+      .bar {
+        height: 120px;
+        display: flex;
+        align-items: end;
+        gap: 8px;
+        border-bottom: 1px solid var(--line);
+        padding: 0 7px;
+      }
+      .bar i {
+        display: block;
+        flex: 1;
+        background: linear-gradient(#18aa7f, var(--g));
+        border-radius: 6px 6px 0 0;
+        min-height: 5px;
+      }
+      .bar label {
+        margin: 0;
+        text-align: center;
+        font-size: 0.65rem;
+      }
+      .metricgrid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 12px;
+      }
+      .metric {
+        border: 1px solid var(--line);
+        border-radius: 12px;
+        padding: 17px;
+      }
+      .metric b {
+        display: block;
+        font-size: 1.5rem;
+        color: var(--g);
+      }
+      .cm {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 4px;
+        margin-top: 12px;
+      }
+      .cm div {
+        padding: 12px 4px;
+        text-align: center;
+        border-radius: 6px;
+        font-weight: 700;
+      }
+      .diag canvas {
+        width: 100%;
+        height: 250px;
+        border: 1px solid var(--line);
+        border-radius: 10px;
+        margin-top: 12px;
+      }
+      .hidden {
+        display: none;
+      }
+      @media (max-width: 750px) {
+        .grid,
+        .lower {
+          grid-template-columns: 1fr;
+        }
+        .metricgrid {
+          grid-template-columns: 1fr 1fr;
+        }
+        .ladder {
+          grid-template-columns: repeat(3, 1fr);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="wrap">
+      <section class="hero">
+        <h1>🏠 Navi Mumbai / BMC House Price Finder</h1>
+        <p>
+          Instant locality-level estimates, price comparisons, mapping and model
+          transparency.
+        </p>
+      </section>
+      <nav class="tabs">
+        <button class="active" data-tab="finder">🏠 Price Finder</button
+        ><button data-tab="insights">🔎 Model Insights</button>
+      </nav>
+      <section id="finder">
+        <div class="grid">
+          <div class="card">
+            <div class="row">
+              <div>
+                <label>Property region</label
+                ><select id="region">
+                  <option>Navi Mumbai</option>
+                  <option>Mumbai / BMC</option>
+                </select>
+              </div>
+              <div>
+                <label>Search locality</label
+                ><input id="search" placeholder="Kharghar, Andheri…" />
+              </div>
+            </div>
+            <label>Locality</label
+            ><select id="node"></select>
+            <div
+              id="ward"
+              class="small"
+              style="color: var(--g); margin-top: 8px"
+            ></div>
+            <div class="row">
+              <div>
+                <label>Configuration</label
+                ><select id="bhk">
+                  <option value="1">1BHK</option>
+                  <option value="2" selected>2BHK</option>
+                  <option value="3">3BHK</option>
+                  <option value="4">4BHK</option>
+                </select>
+              </div>
+              <div>
+                <label>Carpet area: <span id="areaValue">720</span> sq ft</label
+                ><input
+                  id="sqft"
+                  type="range"
+                  min="200"
+                  max="3000"
+                  step="10"
+                  value="720"
+                />
+              </div>
+            </div>
+            <label>Property condition</label>
+            <div class="toggle">
+              <label
+                ><input type="radio" name="new" value="true" checked /> New
+                property</label
+              ><label
+                ><input type="radio" name="new" value="false" /> Resale</label
+              >
+            </div>
+          </div>
+          <div class="card price">
+            <div class="small" id="summary">2BHK · Kharghar · New</div>
+            <h2 id="price">Loading…</h2>
+            <div>estimated market value</div>
+            <div class="chips">
+              <span class="chip" id="rate">— / sq ft</span
+              ><span class="chip" id="areaChip">720 sq ft carpet</span
+              ><span class="chip" id="errorChip">Loading error range…</span>
+            </div>
+          </div>
+        </div>
+        <div class="lower">
+          <div class="card">
+            <b>📍 Locality map</b>
+            <div class="caption">Median location of the selected locality</div>
+            <div id="map"></div>
+          </div>
+          <div class="card">
+            <b>📊 Price ladder</b>
+            <div class="caption">
+              Typical size and predicted value by configuration
+            </div>
+            <div class="bar" id="chart"></div>
+            <div class="ladder" id="ladder"></div>
+            <p id="typical" style="color: var(--muted)"></p>
+          </div>
+        </div>
+      </section>
+      <section id="insights" class="hidden">
+        <div class="card">
+          <b>Model insights</b>
+          <p id="insightNote" style="color: var(--muted)">
+            Loading model metrics…
+          </p>
+          <div class="metricgrid">
+            <div class="metric">
+              <span>Listings</span><b id="listingCount">—</b
+              ><small>cleaned training records</small>
+            </div>
+            <div class="metric">
+              <span>Localities</span><b id="localityCount">—</b
+              ><small>represented in the selector</small>
+            </div>
+            <div class="metric">
+              <span>CV MAE</span><b id="mae">—</b
+              ><small>typical price error</small>
+            </div>
+            <div class="metric">
+              <span>R²</span><b id="r2">—</b
+              ><small>fit metric where available</small>
+            </div>
+          </div>
+        </div>
+        <div class="lower diag">
+          <div class="card"><b>Confusion matrix · price bands</b><div class="caption">Actual bands by row · predicted bands by column</div><div id="confusion" class="cm"></div></div>
+          <div class="card"><b>Predicted vs actual</b><div class="caption">Points closer to the diagonal are more accurate</div><canvas id="scatter"></canvas></div>
+        </div>
+        <div class="lower diag">
+          <div class="card"><b>Error distribution</b><div class="caption">Positive = model underestimates · updates with region</div><canvas id="histogram"></canvas></div>
+          <div class="card"><b>Live diagnostic</b><p id="diagnosticNote">Loading selected-region diagnostic…</p><div class="metricgrid"><div class="metric"><span>Diagnostic MAE</span><b id="liveMae">—</b><small>on plotted model data</small></div><div class="metric"><span>Band accuracy</span><b id="bandAccuracy">—</b><small>matching price quartile</small></div></div></div>
+        </div>
+        <div class="lower">
+          <div class="card">
+            <b>Training pipeline</b>
+            <p>
+              Numeric property features and locality categories are transformed,
+              then estimated by a
+              <strong>HistGradientBoostingRegressor</strong>. Navi Mumbai and
+              Mumbai/BMC use separate models so one market does not distort the
+              other.
+            </p>
+          </div>
+          <div class="card">
+            <b>How to read an estimate</b>
+            <p>
+              Use the price as a transparent market guide, not a final
+              valuation. Building condition, floor, exact micro-location,
+              parking, title status and negotiation can move an actual sale
+              price.
+            </p>
+          </div>
+        </div>
+      </section>
+    </main>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+      const $ = (x) => document.getElementById(x),
+        R = $("region"),
+        N = $("node"),
+        S = $("search"),
+        B = $("bhk"),
+        A = $("sqft");
+      let places = [],
+        map,
+        marker,
+        lastDiag,
+        diagnosticRequest = 0;
+      const money = (n) =>
+        n >= 1e7
+          ? "₹" + (n / 1e7).toFixed(2) + " Cr"
+          : "₹" + (n / 1e5).toFixed(1) + " L";
+      const fresh = () =>
+        document.querySelector("input[name=new]:checked").value === "true";
+      function initMap() {
+        map = L.map("map").setView([19.08, 73.02], 10);
+        L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+          attribution: "© OpenStreetMap",
+        }).addTo(map);
+      }
+      function options() {
+        let q = S.value.toLowerCase();
+        N.innerHTML = places
+          .filter((x) => x.node.toLowerCase().includes(q))
+          .map((x) => `<option value="${x.node}">${x.node}</option>`)
+          .join("");
+        if (!N.options.length)
+          N.innerHTML = "<option>No matching locality</option>";
+      }
+      async function localities() {
+        let d = await (
+          await fetch("/localities?region=" + encodeURIComponent(R.value))
+        ).json();
+        places = d.localities;
+        S.value = "";
+        options();
+        N.value = R.value === "Navi Mumbai" ? "Kharghar" : "Andheri";
+        await Promise.all([predict(), loadInsights()]);
+      }
+      async function predict() {
+        if (!places.length) return;
+        let p = places.find((x) => x.node === N.value),
+          body = {
+            region: R.value,
+            node: N.value,
+            sqft: +A.value,
+            bhk: +B.value,
+            is_new: fresh(),
+          };
+        let d = await (
+          await fetch("/predict", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(body),
+          })
+        ).json();
+        $("summary").textContent =
+          `${B.options[B.selectedIndex].text} · ${d.node}${d.bmc_ward ? " · " + d.bmc_ward : ""} · ${fresh() ? "New" : "Resale"}`;
+        $("price").textContent = money(d.predicted_price);
+        $("rate").textContent =
+          "₹" + Math.round(d.rate_per_sqft).toLocaleString() + " / sq ft";
+        $("areaValue").textContent = A.value;
+        $("areaChip").textContent = A.value + " sq ft carpet";
+        $("ward").textContent = d.bmc_ward
+          ? "BMC ward group: " + d.bmc_ward
+          : "";
+        if (marker) map.removeLayer(marker);
+        marker = L.marker([p.latitude, p.longitude])
+          .addTo(map)
+          .bindPopup(d.node);
+        map.setView([p.latitude, p.longitude], 12);
+        let l = await (
+            await fetch(
+              "/ladder/" +
+                encodeURIComponent(N.value) +
+                "?region=" +
+                encodeURIComponent(R.value) +
+                "&is_new=" +
+                fresh(),
+            )
+          ).json(),
+          max = Math.max(...l.ladder.map((x) => x.predicted_price));
+        $("ladder").innerHTML = l.ladder
+          .map(
+            (x) =>
+              `<div class="step"><small>${x.config}</small><b>${money(x.predicted_price)}</b><small>${x.typical_sqft} sq ft</small></div>`,
+          )
+          .join("");
+        $("chart").innerHTML = l.ladder
+          .map(
+            (x) =>
+              `<span style="flex:1;text-align:center"><i style="height:${(x.predicted_price / max) * 100}%"></i><label>${x.config}</label></span>`,
+          )
+          .join("");
+        let typical = l.ladder.find(
+          (x) => x.config === B.options[B.selectedIndex].text,
+        );
+        $("typical").textContent =
+          `Your selection is ${((d.predicted_price / typical.predicted_price - 1) * 100).toFixed(1)}% versus the typical ${typical.config}.`;
+        loadDiagnostics();
+      }
+      function canvas(id, draw) {
+        const c = $(id), ratio = devicePixelRatio || 1, width = c.clientWidth * ratio, height = c.clientHeight * ratio;
+        c.width = width; c.height = height; const ctx = c.getContext("2d"); ctx.scale(ratio, ratio); draw(ctx, c.clientWidth, c.clientHeight);
+      }
+      function drawDiagnostics(d) {
+        const max = Math.max(...d.confusion_matrix.flat());
+        $("confusion").innerHTML = d.confusion_matrix.flatMap((row, i) => row.map((v, j) => `<div title="Actual ${d.bands[i]}, predicted ${d.bands[j]}" style="background:rgba(8,150,108,${.12 + .88 * v / max});color:${v / max > .55 ? '#fff' : '#075c45'}">${v}<br><small>${d.bands[j]}</small></div>`)).join("");
+        canvas("scatter", (ctx,w,h) => { const a=d.scatter.actual_lakh,p=d.scatter.predicted_lakh,m=Math.max(...a,...p)*1.05;ctx.strokeStyle="#dc2626";ctx.setLineDash([5,4]);ctx.beginPath();ctx.moveTo(32,h-25);ctx.lineTo(w-12,12);ctx.stroke();ctx.setLineDash([]);ctx.fillStyle="#08966c99";a.forEach((x,i)=>{ctx.beginPath();ctx.arc(32+x/m*(w-44),h-25-p[i]/m*(h-37),2,0,7);ctx.fill()});ctx.fillStyle="#667b74";ctx.fillText("Actual price →",w/2-30,h-5);ctx.save();ctx.translate(10,h/2+30);ctx.rotate(-Math.PI/2);ctx.fillText("Predicted price →",0,0);ctx.restore() });
+        canvas("histogram", (ctx,w,h) => { const n=d.error_histogram.counts,m=Math.max(...n);ctx.fillStyle="#08966c";n.forEach((v,i)=>{let bw=(w-35)/n.length;ctx.fillRect(25+i*bw,h-25-v/m*(h-40),bw-2,v/m*(h-40))});ctx.strokeStyle="#dc2626";let zero=d.error_histogram.edges_lakh.findIndex(x=>x>=0);ctx.beginPath();ctx.moveTo(25+zero*(w-35)/n.length,10);ctx.lineTo(25+zero*(w-35)/n.length,h-25);ctx.stroke();ctx.fillStyle="#667b74";ctx.fillText("Model residuals (₹ lakh)",w/2-55,h-5) });
+      }
+      async function loadInsights() {
+        let d = await fetch("/insights?region=" + encodeURIComponent(R.value)).then(r => r.json());
+        $("listingCount").textContent = d.listings.toLocaleString();
+        $("localityCount").textContent = d.localities;
+        $("mae").textContent = "₹" + d.cv_mae_lakh + "L";
+        $("r2").textContent = d.r2 === null ? "—" : d.r2.toFixed(3);
+        $("errorChip").textContent = "±₹" + d.cv_mae_lakh + "L typical error";
+        $("insightNote").textContent = d.note;
+        loadDiagnostics();
+      }
+      async function loadDiagnostics() {
+        if (!N.value) return;
+        const request = ++diagnosticRequest;
+        const params = new URLSearchParams({region:R.value,node:N.value,sqft:A.value,bhk:B.value,is_new:fresh()});
+        const diag = await fetch("/diagnostics?" + params).then(r => r.json());
+        if (request !== diagnosticRequest) return;
+        lastDiag = diag;
+        $("liveMae").textContent = "₹" + diag.mae_lakh + "L";
+        $("bandAccuracy").textContent = diag.band_accuracy + "%";
+        $("diagnosticNote").textContent = `${diag.method}. ${diag.comparable_listings} closest listings match your current locality, BHK, area and condition.`;
+        if (!$("insights").classList.contains("hidden")) drawDiagnostics(diag);
+      }
+      document.querySelectorAll(".tabs button").forEach(
+        (x) =>
+          (x.onclick = () => {
+            document
+              .querySelectorAll(".tabs button")
+              .forEach((b) => b.classList.remove("active"));
+            x.classList.add("active");
+            $("finder").classList.toggle("hidden", x.dataset.tab !== "finder");
+            $("insights").classList.toggle(
+              "hidden",
+              x.dataset.tab !== "insights",
+            );
+            if (x.dataset.tab === "insights") loadDiagnostics();
+          }),
+      );
+      R.onchange = localities;
+      S.oninput = () => {
+        let old = N.value;
+        options();
+        if ([...N.options].some((x) => x.value === old)) N.value = old;
+      };
+      [N, B, A].forEach((x) => (x.onchange = predict));
+      document
+        .querySelectorAll("input[name=new]")
+        .forEach((x) => (x.onchange = predict));
+      initMap();
+      localities();
+    </script>
+  </body>
+</html>
